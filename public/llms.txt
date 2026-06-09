@@ -1,0 +1,73 @@
+# TripleA.I — Generative Engine Optimization Map
+
+> A cutting-edge AI and business automation company targeting B2B small and medium businesses, positioning itself as an expert in eliminating operational bottlenecks, reducing human errors, and drastically cutting costs through intelligent workflow automation. The brand exudes a premium, authoritative, and highly innovative identity — built around custom AI-driven workflows using platforms like n8n and Make, end-to-end operational automation, and strategic tech operations. The overall vibe is sleek, modern, and trustworthy, with a strong emphasis on ROI maximization, business velocity, and empowering clients to scale smarter. Bilingual (Hebrew and English) with a bold, forward-thinking personality tailored for decision-makers ready to transform their operations.
+
+---
+
+## Pages
+
+### בית
+https://triplea-i-6608bc53.zappy5.app
+גלה כיצד TripleA.I מייעלת תהליכים עסקיים, מונעת טעויות אנוש ומקצצת עלויות דרמטית עם פתרונות אוטומציה מותאמים אישית לעסקים קטנים ובינוניים. קבע פגישת אסטרטגיה עוד היום.
+
+## Legal & Policy
+
+### Privacy Policy
+https://triplea-i-6608bc53.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://triplea-i-6608bc53.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://triplea-i-6608bc53.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://triplea-i-6608bc53.zappy5.app
+- Endpoint: https://triplea-i-6608bc53.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `fullName` (text, required)
+  - `email` (email, required)
+  - `phone` (tel, required)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About TripleA.I
+A cutting-edge AI and business automation company targeting B2B small and medium businesses, positioning itself as an expert in eliminating operational bottlenecks, reducing human errors, and drastically cutting costs through intelligent workflow automation. The brand exudes a premium, authoritative, and highly innovative identity — built around custom AI-driven workflows using platforms like n8n and Make, end-to-end operational automation, and strategic tech operations. The overall vibe is sleek, modern, and trustworthy, with a strong emphasis on ROI maximization, business velocity, and empowering clients to scale smarter. Bilingual (Hebrew and English) with a bold, forward-thinking personality tailored for decision-makers ready to transform their operations.
+
+## Services/Products
+- Custom AI-Driven Workflows (n8n & Make integration ecosystems)
+- End-to-End Operational Automation
+- Strategic Tech Operations & Smart City/Enterprise Solutions
+
+## Target Audience
+- B2B small and medium-sized businesses (SMBs) looking to modernize their operations
+- עסקים קטנים ובינוניים B2B
+- סטארטאפים טכנולוגיים
+- יועצי טרנספורמציה דיגיטלית
+- עסקים שמחפשים הורדת עלויות ואוטומציה של תהליכים
+
+## Industry
+Business Automation & AI Technology
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://triplea-i-6608bc53.zappy5.app/sitemap.xml
+- Robots: https://triplea-i-6608bc53.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://triplea-i-6608bc53.zappy5.app/llms-full.txt
