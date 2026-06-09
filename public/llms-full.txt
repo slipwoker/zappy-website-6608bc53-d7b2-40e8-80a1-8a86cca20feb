@@ -815,11 +815,11 @@ TripleA.I מסייעת לעסקים קטנים ובינוניים לזהות צ�
 #### צור קשר
 
 
-- [business_email]
+- amir.tatarsky@gmail.com
 
-- [business_phone]
+- +972-52-3450000
 
-- [business_address]
+- חבצלת 5, אבן יהודה, 4053571, ישראל
 
 
 
@@ -1029,11 +1029,11 @@ TripleA.I ("החברה", "אנו", "שלנו") מחויבת להגן על פרט
 
 - חברה: TripleA.I
 
-- אימייל: [business_email]
+- אימייל: amir.tatarsky@gmail.com
 
-- טלפון: [business_phone]
+- טלפון: +972-52-3450000
 
-- כתובת: [business_address]
+- כתובת: חבצלת 5, אבן יהודה, 4053571, ישראל
 
 
 
@@ -1084,11 +1084,11 @@ TripleA.I ("החברה", "אנו", "שלנו") מחויבת להגן על פרט
 #### צור קשר
 
 
-- [business_email]
+- amir.tatarsky@gmail.com
 
-- [business_phone]
+- +972-52-3450000
 
-- [business_address]
+- חבצלת 5, אבן יהודה, 4053571, ישראל
 
 
 
@@ -1306,9 +1306,9 @@ TripleA.I מחויבת להנגיש את השירותים לכלל הציבור.
 
 - חברה: TripleA.I
 
-- אימייל: [business_email]
+- אימייל: amir.tatarsky@gmail.com
 
-- טלפון: [business_phone]
+- טלפון: +972-52-3450000
 
 
 
@@ -1362,11 +1362,11 @@ TripleA.I מחויבת להנגיש את השירותים לכלל הציבור.
 #### צור קשר
 
 
-- [business_email]
+- amir.tatarsky@gmail.com
 
-- [business_phone]
+- +972-52-3450000
 
-- [business_address]
+- חבצלת 5, אבן יהודה, 4053571, ישראל
 
 
 
@@ -1607,11 +1607,11 @@ TripleA.I מספקת Business Automation & AI Technology דרך האתר. השי
 
 - חברה: TripleA.I
 
-- אימייל: [business_email]
+- אימייל: amir.tatarsky@gmail.com
 
-- טלפון: [business_phone]
+- טלפון: +972-52-3450000
 
-- כתובת: [business_address]
+- כתובת: חבצלת 5, אבן יהודה, 4053571, ישראל
 
 
 
@@ -1659,11 +1659,11 @@ TripleA.I מספקת Business Automation & AI Technology דרך האתר. השי
 #### צור קשר
 
 
-- [business_email]
+- amir.tatarsky@gmail.com
 
-- [business_phone]
+- +972-52-3450000
 
-- [business_address]
+- חבצלת 5, אבן יהודה, 4053571, ישראל
 
 
 

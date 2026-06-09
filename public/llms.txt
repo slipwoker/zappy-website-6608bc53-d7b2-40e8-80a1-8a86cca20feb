@@ -28,7 +28,10 @@ Information about WCAG compliance and accessibility features.
 
 ## How to Contact Us
 
-- (No contact details configured yet.)
+- Email: amir.tatarsky@gmail.com
+- Phone: +972-52-3450000
+- Phone (tel): tel:+972523450000
+- Address: חבצלת 5, אבן יהודה, 4053571, ישראל
 
 ### Contact form
 - URL: https://example.com
