@@ -31,7 +31,7 @@ Information about WCAG compliance and accessibility features.
 - Email: amir.tatarsky@gmail.com
 - Phone: +972-52-3450000
 - Phone (tel): tel:+972523450000
-- Address: חבצלת 5, אבן יהודה, 4053571, ישראל
+- Address: אבן יהודה, ישראל
 
 ### Contact form
 - URL: https://example.com
