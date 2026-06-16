@@ -7,21 +7,21 @@
 ## Pages
 
 ### בית
-https://triplea-i.zappy5.app
+https://tripleai.co.il
 גלה כיצד TripleA.I מייעלת תהליכים עסקיים, מונעת טעויות אנוש ומקצצת עלויות דרמטית עם פתרונות אוטומציה מותאמים אישית לעסקים קטנים ובינוניים. קבע פגישת אסטרטגיה עוד היום.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://triplea-i.zappy5.app/privacy
+https://tripleai.co.il/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://triplea-i.zappy5.app/terms
+https://tripleai.co.il/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://triplea-i.zappy5.app/accessibility
+https://tripleai.co.il/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -34,8 +34,8 @@ Information about WCAG compliance and accessibility features.
 - Address: אבן יהודה, ישראל
 
 ### Contact form
-- URL: https://triplea-i.zappy5.app
-- Endpoint: https://triplea-i.zappy5.app/api/email/contact-form
+- URL: https://tripleai.co.il
+- Endpoint: https://tripleai.co.il/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -71,6 +71,6 @@ Business Automation & AI Technology
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://triplea-i.zappy5.app/sitemap.xml
-- Robots: https://triplea-i.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://triplea-i.zappy5.app/llms-full.txt
+- Sitemap (XML): https://tripleai.co.il/sitemap.xml
+- Robots: https://tripleai.co.il/robots.txt
+- Flattened page text (for LLMs): https://tripleai.co.il/llms-full.txt

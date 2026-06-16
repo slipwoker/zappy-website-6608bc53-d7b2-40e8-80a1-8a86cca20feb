@@ -2,13 +2,13 @@
 
 A cutting-edge AI and business automation company targeting B2B small and medium businesses, positioning itself as an expert in eliminating operational bottlenecks, reducing human errors, and drastically cutting costs through intelligent workflow automation. The brand exudes a premium, authoritative, and highly innovative identity — built around custom AI-driven workflows using platforms like n8n and Make, end-to-end operational automation, and strategic tech operations. The overall vibe is sleek, modern, and trustworthy, with a strong emphasis on ROI maximization, business velocity, and empowering clients to scale smarter. Bilingual (Hebrew and English) with a bold, forward-thinking personality tailored for decision-makers ready to transform their operations.
 
-Source: https://triplea-i.zappy5.app
+Source: https://tripleai.co.il
 
 ---
 
 ## האיץ את העסק שלך עם אוטומציה חכמה — TripleA.I
 
-URL: https://triplea-i.zappy5.app
+URL: https://tripleai.co.il
 Description: גלה כיצד TripleA.I מייעלת תהליכים עסקיים, מונעת טעויות אנוש ומקצצת עלויות דרמטית עם פתרונות אוטומציה מותאמים אישית לעסקים קטנים ובינוניים. קבע פגישת אסטרטגיה עוד היום.
 
 האיץ את העסק שלך עם אוטומציה חכמה — TripleA.I
@@ -648,7 +648,7 @@ TripleA.I
 
 ## מדיניות פרטיות
 
-URL: https://triplea-i.zappy5.app/privacy
+URL: https://tripleai.co.il/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -707,7 +707,7 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 
 
-TripleA.I ("החברה", "אנו", "שלנו") מחויבת להגן על פרטיותכם. מדיניות פרטיות זו מסבירה כיצד אנו אוספים, משתמשים ומגינים על המידע שלכם בעת השימוש באתר [business_website] ("השירות").
+TripleA.I ("החברה", "אנו", "שלנו") מחויבת להגן על פרטיותכם. מדיניות פרטיות זו מסבירה כיצד אנו אוספים, משתמשים ומגינים על המידע שלכם בעת השימוש באתר https://tripleai.co.il ("השירות").
 
 
 ## 1. איסוף מידע
@@ -903,7 +903,7 @@ TripleA.I ("החברה", "אנו", "שלנו") מחויבת להגן על פרט
 
 ## הצהרת נגישות
 
-URL: https://triplea-i.zappy5.app/accessibility
+URL: https://tripleai.co.il/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -1167,7 +1167,7 @@ TripleA.I מחויבת להנגיש את השירותים לכלל הציבור.
 
 ## תנאי שימוש
 
-URL: https://triplea-i.zappy5.app/terms
+URL: https://tripleai.co.il/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
