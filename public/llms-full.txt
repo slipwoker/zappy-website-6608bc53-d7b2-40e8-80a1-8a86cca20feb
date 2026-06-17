@@ -189,9 +189,9 @@ Designing and implementing automated systems powered by n8n and Make, tailored p
 Mapping, optimizing, and accelerating your entire value chain - from inventory management to customer service, using smart automation that puts your business at the forefront of technology.
 
 - Reduce human errors by up to 95% in critical workflows
-- Reducing response times and providing fast answers to customers in real time
-- Full operational transparency with real-time dashboards for performance monitoring
-- Instant scalability - the system grows with your business
+- Shorter turnaround times and rapid, real-time customer response
+- Full operational transparency with real-time performance dashboards
+- Instant scalability - the systems grow alongside your business
 
 
 
