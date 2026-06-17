@@ -5181,6 +5181,30 @@ html[dir="ltr"] .index-contact-section .privacy-consent-label {
 }
 
 .index-contact-section .privacy-consent-label{text-align: start !important;}html[dir="rtl"] .index-contact-section .privacy-consent-label{direction: rtl !important;}
+
+.privacy-consent-label .consent-hebrew{display: inline !important;}
+
+.privacy-consent-label a.consent-hebrew{display: inline !important;}
+
+.privacy-consent-label .consent-english{display: none !important;}
+
+.privacy-consent-label a.consent-english{display: none !important;}
+
+html[dir="ltr"] .privacy-consent-label .consent-hebrew {
+  display: none !important;
+}
+
+html[dir="ltr"] .privacy-consent-label a.consent-hebrew {
+  display: none !important;
+}
+
+html[dir="ltr"] .privacy-consent-label .consent-english {
+  display: inline !important;
+}
+
+html[dir="ltr"] .privacy-consent-label a.consent-english {
+  display: inline !important;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
