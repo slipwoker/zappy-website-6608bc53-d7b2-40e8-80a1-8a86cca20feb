@@ -5205,6 +5205,14 @@ html[dir="ltr"] .privacy-consent-label .consent-english {
 html[dir="ltr"] .privacy-consent-label a.consent-english {
   display: inline !important;
 }
+
+.consent-english,
+html[lang="he"] .consent-english,
+html[lang="ar"] .consent-english{display: none !important;}
+
+html[dir="ltr"] .consent-hebrew {
+  display: none !important;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
