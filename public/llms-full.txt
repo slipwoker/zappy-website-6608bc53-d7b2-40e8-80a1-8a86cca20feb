@@ -263,7 +263,7 @@ A dramatic reduction of up to 95% in human errors and approximately 30% savings 
 
 
 
-### Accelerating work pace
+### Accelerating execution speed
 
 
 Increasing the execution speed of tasks and operations by at least 5x.  Transitioning to smooth, continuous, and immediate workflows that respond to customers and leads in real time.
