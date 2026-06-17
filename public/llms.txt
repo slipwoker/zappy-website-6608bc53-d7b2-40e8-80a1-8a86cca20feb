@@ -43,7 +43,6 @@ Information about WCAG compliance and accessibility features.
   - `email` (email, required)
   - `phone` (tel, required)
   - `message` (textarea)
-  - `privacy_consent` (checkbox, required)
 
 ---
 
