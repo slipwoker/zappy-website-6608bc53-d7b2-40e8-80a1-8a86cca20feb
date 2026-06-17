@@ -232,7 +232,7 @@ The TripleA.I advantage
 ## Turning manual operations into an intelligent automated system
 
 
-We turn operational bottlenecks into growth engines.  TripleA.I specializes in automating complex business processes, integrating n8n and Make for advanced automation.  The result: no manual tasks, zero human errors, cost savings, and accelerated work pace from day one.
+We turn operational bottlenecks into growth engines. TripleA.I specializes in automating complex business processes, integrating n8n and Make for advanced automation.  The result: no manual tasks, zero human errors, cost savings, and accelerated work pace from day one.
 
 
 
