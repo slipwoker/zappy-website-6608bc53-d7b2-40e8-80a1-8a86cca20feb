@@ -417,7 +417,7 @@ Smart Automation
 
 - Continuous, fast, and fully automated workflows
 - A unified ecosystem with intelligent integrations across all tools
-- Flawless data execution with 99% accuracy & zero human friction
+- Flawless data execution with 99% accuracy & 0 human friction
 - Instant, 24/7 lead response and automated routing
 - Up to 30% reduction in ongoing operational expenses and massive time savings
 
