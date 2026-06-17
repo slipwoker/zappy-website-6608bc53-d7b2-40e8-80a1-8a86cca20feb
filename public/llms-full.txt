@@ -186,7 +186,7 @@ Designing and implementing automated systems powered by n8n and Make, Tailored p
 ### End-to-End operational automation
 
 
-Mapping, optimizing and accelerating the entire operational value chain — from inventory management to customer service — using smart automation that places you at the forefront of technology.
+Mapping, optimizing and accelerating the entire value chain - from inventory management to customer service, using smart automation that puts your business at the forefront of technology.
 
 - Reduce human errors by up to 95% in critical processes
 - Shorter delivery times and real-time rapid response to customers
