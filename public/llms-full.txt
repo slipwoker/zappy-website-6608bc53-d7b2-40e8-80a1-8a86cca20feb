@@ -416,9 +416,9 @@ Manual Operations
 Smart Automation
 
 - Continuous, fast, and fully automated workflows
-- One unified system with smart integrations across all tools
-- Perfect accuracy of over 99% with no human errors
-- Instant lead response and routing, 24/7 in real time
+- A unified ecosystem with intelligent integrations across all tools
+- Flawless data execution with 99%+ accuracy and zero human friction
+- Instant, 24/7 lead response and automated routing
 - Up to 30% reduction in ongoing operational costs and time savings
 
 
@@ -554,7 +554,7 @@ Smart Automation
 
 
 
-קראתי ואני מסכים/ה ל  תנאי השימוש   ול  מדיניות הפרטיות
+קראתי ואני מסכים/ה ל תנאי השימוש  ול מדיניות הפרטיות
 
 
 שילחו פרטים לשיחת ייעוץ ראשונית
