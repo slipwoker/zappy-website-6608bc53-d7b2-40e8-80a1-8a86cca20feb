@@ -436,10 +436,10 @@ Smart Automation
 
 
 
-## תוצאות מוכחות בשורה התחתונה
+## Proven results on the bottom line
 
 
-הנתונים מהתעשייה מדברים בעד עצמם - כך אוטומציה מבוססת AI מזניקה את היעילות, הדיוק והרווחיות של העסק שלכם.
+Industry data speaks for itself - custom AI and smart automation boost your efficiency, maximize accuracy, and drive business profitability.
 
 
 
@@ -450,10 +450,10 @@ Smart Automation
 
 
 
-### חיסכון בזמן עבודה ידני
+### Manual work time savings
 
 
-צמצום דרמטי של עד 80% בזמן הביצוע של תהליכים שגרתיים ידניים, תוך שחרור ההון האנושי בארגון להתמקדות באסטרטגיית צמיחה
+A dramatic reduction of up to 80% in the execution time of routine manual processes, while freeing the organization's human capital to focus on growth strategy
 
 
 
@@ -463,10 +463,10 @@ Smart Automation
 
 
 
-### דיוק תפעולי מוחלט
+### Absolute operational accuracy
 
 
-מזעור נקודות מגע ידניות להשגת ביטול כמעט מוחלט של שגיאות נתונים בתהליכי ליבה קריטיים, המוביל לחיסכון ישיר בעלויות התפעול
+Minimizing manual touchpoints to achieve near-total elimination of data errors in critical core processes, leading to direct savings in operational costs
 
 
 
@@ -476,10 +476,10 @@ Smart Automation
 
 
 
-### הגדלת כושר התפוקה
+### Increased output capacity
 
 
-הכפלת היכולת התפעולית של הארגון פי 3 ללא צורך בגיוס כוח אדם נוסף, באמצעות ארכיטקטורת אוטומציה חכמה המותאמת במדויק לצרכי העסק.
+Tripling your organization's operational throughput without expanding headcount. Delivered via smart automation architecture engineered precisely around your business needs
 
 
 
@@ -489,25 +489,25 @@ Smart Automation
 
 
 
-### צמצום עלויות ו-ROI מהיר
+### Cost reduction and fast ROI
 
 
-שיפור דרמטי בנראות התפעולית וקיצוץ ממוצע של 30% בהוצאות התפעול השוטפות, עם החזר השקעה מהיר ונראה לעין תוך שבועות בודדים..
+Dramatic improvement in operational visibility and an average 30% reduction in ongoing operational expenses, with a fast and visible return on investment within just a few weeks..
 
 
 
 
 
 ⚙️
-תהליכי AI מותאמים אישית
+Custom AI Processes
 
 
 🔄
-אוטומציה תפעולית מקצה לקצה
+End-to-End Operational Automation
 
 
 📊
-הטמעה אסטרטגית מלאה
+Full Strategic Implementation
 
 
 
@@ -557,7 +557,7 @@ Smart Automation
 
 
 
-קראתי ואני מסכים/ה ל תנאי השימוש  ול מדיניות הפרטיות
+קראתי ואני מסכים/ה ל  תנאי השימוש   ול  מדיניות הפרטיות
 
 
 שילחו פרטים לשיחת ייעוץ ראשונית
