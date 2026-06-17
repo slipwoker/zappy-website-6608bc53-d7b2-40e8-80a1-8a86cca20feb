@@ -715,121 +715,114 @@ English
 
 
 
-# מדיניות פרטיות
+# Privacy Policy
 
 
+Last updated: 9.6.2026
 
-עדכון אחרון:  9.6.2026
 
+TripleA.I ("the Company", "we", "our") is committed to protecting your privacy. This Privacy Policy explains how we collect, use and protect your information when using the website https://www.tripleai.co.il ("the Service").
 
 
-TripleA.I ("החברה", "אנו", "שלנו") מחויבת להגן על פרטיותכם. מדיניות פרטיות זו מסבירה כיצד אנו אוספים, משתמשים ומגינים על המידע שלכם בעת השימוש באתר https://www.tripleai.co.il ("השירות").
+## 1. Information Collection
 
 
-## 1. איסוף מידע
+We may collect the following types of information:
 
 
-אנו עשויים לאסוף את סוגי המידע הבאים:
+- Personal information: name, email address, phone number, and address
 
+- Technical information: IP address, browser type, operating system, and website usage data
 
-- מידע אישי: שם, כתובת אימייל, מספר טלפון וכתובת
+- Cookies: information stored on your computer to enhance your browsing experience
 
-- מידע טכני: כתובת IP, סוג דפדפן, מערכת הפעלה ונתוני שימוש באתר
 
-- עוגיות: מידע הנשמר במחשבכם לשיפור חוויית השימוש
 
 
+## 2. Use of Information
 
 
-## 2. שימוש במידע
+We use the information collected for the following purposes:
 
 
-אנו משתמשים במידע שנאסף למטרות הבאות:
+- Providing the requested services
 
+- Improving the service and user experience
 
-- מתן השירותים המבוקשים
+- Contacting you regarding our services
 
-- שיפור השירות וחוויית המשתמש
+- Compliance with legal requirements
 
-- יצירת קשר עמכם בנוגע לשירותינו
 
-- עמידה בדרישות חוקיות
 
 
+## 3. Information Sharing
 
 
-## 3. שיתוף מידע
+We will not sell, rent, or share your personal information with third parties, except in the following cases:
 
 
-אנו לא נמכור, נחכיר או נשתף את המידע האישי שלכם עם צדדים שלישיים, למעט במקרים הבאים:
+- With your explicit consent
 
+- When required by law
 
-- בהסכמתכם המפורשת
+- To protect our rights or the safety of our users
 
-- כאשר נדרש על פי חוק
+- With service providers who assist in operating the service (under confidentiality agreements)
 
-- להגנה על זכויותינו או בטחון משתמשינו
 
-- עם ספקי שירות המסייעים בהפעלת השירות (תחת הסכמי סודיות)
 
 
+## 4. User Rights
 
 
-## 4. זכויות המשתמש
+In accordance with the Privacy Protection Law 5741-1981, you have the following rights:
 
 
-בהתאם לחוק הגנת הפרטיות התשמ"א-1981, יש לכם הזכויות הבאות:
+- Right to access the personal information stored about you
 
+- Right to correct inaccurate or incorrect information
 
-- זכות עיון במידע האישי השמור עליכם
+- Right to delete personal information under certain circumstances
 
-- זכות לתיקון מידע שגוי או לא מדויק
+- Right to object to the processing of information for marketing purposes
 
-- זכות למחיקת מידע אישי בנסיבות מסוימות
+- Right to file a complaint with the Registrar of Databases
 
-- זכות להתנגד לעיבוד מידע למטרות שיווק
 
-- זכות להגשת תלונה לרשם מאגרי המידע
 
 
+## 5. Cookies
 
 
-## 5. עוגיות (Cookies)
+Our website uses cookies to enhance your browsing experience. You can manage cookies through your browser settings. Disabling cookies may affect the functionality of the website.
 
 
-אתרנו משתמש בעוגיות לשיפור חוויית השימוש. ניתן לנהל את העוגיות דרך הגדרות הדפדפן שלכם. השבתת עוגיות עלולה להשפיע על פונקציונליות האתר.
+## 6. Information Security
 
 
-## 6. אבטחת מידע
+We take reasonable security measures to protect your information, including encryption, firewalls, and restricted access controls. However, no method of transmission or storage is 100% secure.
 
 
-אנו נוקטים באמצעי אבטחה סבירים להגנה על המידע שלכם, כולל הצפנה, חומות אש ובקרת גישה מוגבלת. עם זאת, אף שיטת העברה או אחסון אינה בטוחה ב-100%.
+## 7. Policy Changes
 
 
-## 7. שינויים במדיניות
+We may update this Privacy Policy from time to time. Material changes will be published on the website with 30 days' advance notice.
 
 
-אנו עשויים לעדכן מדיניות פרטיות זו מעת לעת. שינויים מהותיים יפורסמו באתר עם הודעה מוקדמת של 30 יום.
 
+## 8. Contact Us
 
 
-## 8. יצירת קשר
+For questions or requests regarding this Privacy Policy, you may contact us:
 
+- Company: TripleA.I
+- Email: amir.tatarsky@gmail.com
+- Email: +972-52-3450000
+- Address: Even Yehuda, Israel
 
-לשאלות או בקשות בנוגע למדיניות פרטיות זו, ניתן לפנות אלינו:
 
-
-- חברה: TripleA.I
-
-- אימייל: amir.tatarsky@gmail.com
-
-- טלפון: 972-52-3450000+
-
-- כתובת: אבן יהודה, ישראל
-
-
-
-רשם מאגרי המידע: לתלונות ניתן לפנות לרשם מאגרי המידע במשרד המשפטים
+Registrar of Databases: For complaints, you may contact the Registrar of Databases at the Ministry of Justice
 
 
 
