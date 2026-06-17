@@ -5213,6 +5213,14 @@ html[lang="ar"] .consent-english{display: none !important;}
 html[dir="ltr"] .consent-hebrew {
   display: none !important;
 }
+
+html[dir="ltr"] .site-footer .footer-col h4::after {
+  content: '';
+  left: 0 !important;
+  right: auto !important;
+  margin-left: 0 !important;
+  margin-right: auto !important;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
