@@ -302,7 +302,7 @@ Our methodology
 ## From initial diagnosis to full automation
 
 
-We don't believe in generic, off-the-shelf solutions. Every project at TripleA.I follows a structured, four-stage process designed to define, map, optimize, and accelerate your business processes using custom AI and advanced automation.
+We don't believe in generic off-the-shelf solutions. Every project at TripleA.I goes through a structured four-stage process, designed to define, map, optimize and accelerate your business processes using artificial intelligence and advanced automation.
 
 
 
@@ -324,7 +324,7 @@ We don't believe in generic, off-the-shelf solutions. Every project at TripleA.I
 ### Bottleneck discovery and mapping
 
 
-In-depth mapping and analysis of existing organizational processes,  identifying weak points, delays, and unnecessary manual overhead.
+In-depth mapping and analysis of existing organizational workflows, pinpointing inefficiencies, communication delays, and unnecessary manual overhead.
 
 
 
@@ -342,7 +342,7 @@ In-depth mapping and analysis of existing organizational processes,  identifying
 
 
 
-### Information flow architecture
+### Data flow architecture
 
 
 Careful planning of a custom automation framework tailored to business needs, connecting platforms such as n8n and Make with precise alignment to your business logic.
