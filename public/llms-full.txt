@@ -148,32 +148,11 @@ Execution Speed
 
 
 
-## Smart automation solutions for your business
+## פתרונות אוטומציה חכמים לעסק שלך
 
 
 
-Custom automation architecture and AI systems, that transform complex manual processes into an efficient, scalable ecosystem. We accelerate your operational speed, and give back the most valuable resource of all: time.
-
-
-
-
-
-
-
-
-
-
-
-
-### Custom AI processes
-
-
-Development and implementation of automation systems based on n8n and Make, tailored precisely to your operational needs — from lead to invoice.
-
-- Full integration between CRM, ERP, and marketing tools
-- Complex business logic that runs automatically 24/7
-- Save up to 80% of manual work time on repetitive processes
-- Immediate increase in team output without hiring additional staff
+ארכיטקטורת אוטומציה ומערכות AI מותאמות אישית, שהופכות תהליכים ידניים ומורכבים לאקו-סיסטם עצמאי ויעיל. אנחנו מזניקים את מהירות האופרציה שלכם, ומחזירים לכם את המשאב היקר מכולם: זמן.
 
 
 
@@ -183,33 +162,54 @@ Development and implementation of automation systems based on n8n and Make, tail
 
 
 
-### End-to-end operational automation
-
-
-Mapping, optimizing and accelerating the entire operational value chain — from inventory management to customer service — using smart automation that places you at the forefront of technology.
-
-- Reduce human errors by up to 95% in critical processes
-- Shorter delivery times and real-time rapid response to customers
-- Full transparency with real-time dashboards for performance monitoring
-- Instant scalability — the system grows with your business
 
 
 
+### תהליכי AI מותאמים אישית
+
+
+פיתוח והטמעה של מערכות אוטומציה מבוססות n8n ו-Make, המותאמות בדיוק לצרכים התפעוליים שלך - מהליד ועד לחשבונית.
+
+- אינטגרציה מלאה בין מערכות CRM, ERP וכלים שיווקיים
+- לוגיקה עסקית מורכבת שתופעל אוטומטית 24/7
+- חיסכון של עד 80% בזמן עבודה ידני על תהליכים חוזרים
+- הגדלה מיידית של תפוקת הצוות ללא גיוס עובדים נוספים
 
 
 
 
 
 
-### Operations strategy & AI Readiness
 
 
-Guiding executives and organizations in building a technological roadmap. Identifying organizational bottlenecks, defining efficiency metrics (KPIs) and preparing operations for the AI era.
 
-- Prior comprehensive audit to identify resource and time waste within the organization
-- Defining clear KPIs to maximize ROI on existing technology
-- Building smart architecture and bridging management strategy with technical execution on the ground
-- Forward strategic planning to create a competitive advantage based on innovation and Velocity
+### אוטומציה תפעולית מקצה לקצה
+
+
+מיפוי, ייעול והאצה של כל שרשרת הערך התפעולית - מניהול מלאי ועד שירות לקוחות - באמצעות אוטומציה חכמה שמציבה אותכם בחזית הטכנולוגיה.
+
+- צמצום טעויות אנוש בעד 95% בתהליכים קריטיים
+- קיצור זמני אספקה ומענה מהיר ללקוחות בזמן אמת
+- שקיפות מלאה עם דשבורדים בזמן אמת לניטור ביצועים
+- יכולת סקיילביליות מיידית — המערכת גדלה יחד עם העסק
+
+
+
+
+
+
+
+
+
+### אסטרטגיית תפעול & מוכנות לבינה מלאכותית
+
+
+ליווי מנהלים וארגונים בבניית מפת דרכים טכנולוגית. איתור צווארי בקבוק בארגון, הגדרת מדדי יעילות (KPIs) והכנת האופרציה לעידן ה-AI.
+
+- ביצוע קודם של audit (מבדק) מקיף לאיתור בזבוז משאבים וזמן בארגון
+- הגדרת KPIs ברורים למקסום ה-ROI על הטכנולוגיה הקיימת
+- בניית ארכיטקטורה חכמה וחיבור בין אסטרטגיית הנהלה לביצוע טכני בשטח
+- תכנון אסטרטגי קדימה ליצירת יתרון תחרותי מבוסס חדשנות ו-Velocity
 
 
 
