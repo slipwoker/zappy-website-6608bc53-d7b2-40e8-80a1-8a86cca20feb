@@ -207,8 +207,8 @@ Mapping, optimizing, and accelerating your entire value chain - from inventory m
 Guiding executives and organizations through a clear technological roadmap: identifying bottlenecks, defining key performance indicators (KPIs), and preparing your operations for the AI era.
 
 - Comprehensive operational audit to eliminate resource and time waste
-- Defining clear KPIs to maximize ROI on existing technology
-- Building smart architecture that bridges the gap between management strategy and technical execution on the ground
+- Defining clear KPIs to maximize ROI on your current technology stack
+- Building smart architecture that bridges management strategy with on-the-ground technical execution
 - Strategic planning to secure a competitive advantage driven by innovation and Velocity
 
 
