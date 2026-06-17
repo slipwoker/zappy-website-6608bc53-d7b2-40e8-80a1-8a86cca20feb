@@ -204,7 +204,7 @@ Mapping, optimizing and accelerating the entire value chain - from inventory man
 ### Operations strategy & AI Readiness
 
 
-Guiding executives and organizations in building a technological roadmap. Identifying organizational bottlenecks, defining efficiency metrics (KPIs) and preparing operations for the AI era.
+Guiding executives and organizations through a clear technological roadmap: Identifying bottlenecks, defining key efficiency metrics (KPIs) and preparing your operations for the AI era.
 
 - Prior comprehensive audit to identify resource and time waste within the organization
 - Defining clear KPIs to maximize ROI on existing technology
