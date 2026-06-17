@@ -436,10 +436,10 @@ Smart Automation
 
 
 
-## Proven results on the bottom line
+## תוצאות מוכחות בשורה התחתונה
 
 
-Industry data speaks for itself - custom AI and smart automation boost your efficiency, maximize accuracy, and drive business profitability.
+הנתונים מהתעשייה מדברים בעד עצמם - כך אוטומציה מבוססת AI מזניקה את היעילות, הדיוק והרווחיות של העסק שלכם.
 
 
 
@@ -450,10 +450,10 @@ Industry data speaks for itself - custom AI and smart automation boost your effi
 
 
 
-### Manual work time savings
+### חיסכון בזמן עבודה ידני
 
 
-A dramatic reduction of up to 80% in the execution time of routine manual processes, while freeing the organization's human capital to focus on growth strategy
+צמצום דרמטי של עד 80% בזמן הביצוע של תהליכים שגרתיים ידניים, תוך שחרור ההון האנושי בארגון להתמקדות באסטרטגיית צמיחה
 
 
 
@@ -463,10 +463,10 @@ A dramatic reduction of up to 80% in the execution time of routine manual proces
 
 
 
-### Absolute operational accuracy
+### דיוק תפעולי מוחלט
 
 
-Minimizing manual touchpoints to achieve near-total elimination of data errors in critical core processes, leading to direct savings in operational costs
+מזעור נקודות מגע ידניות להשגת ביטול כמעט מוחלט של שגיאות נתונים בתהליכי ליבה קריטיים, המוביל לחיסכון ישיר בעלויות התפעול
 
 
 
@@ -476,10 +476,10 @@ Minimizing manual touchpoints to achieve near-total elimination of data errors i
 
 
 
-### Increased output capacity
+### הגדלת כושר התפוקה
 
 
-Tripling your organization's operational throughput without expanding headcount. Delivered via smart automation architecture engineered precisely around your business needs
+שילוש תפוקת הפעילות של הארגון שלך מבלי להרחיב את כוח האדם. מסופק באמצעות ארכיטקטורת אוטומציה חכמה, מתוכננת במדויק סביב צרכי העסק שלך
 
 
 
@@ -489,25 +489,25 @@ Tripling your organization's operational throughput without expanding headcount.
 
 
 
-### Cost reduction and fast ROI
+### צמצום עלויות ו-ROI מהיר
 
 
-Drive an average 30% reduction in ongoing operational expenses while gaining enhanced workflow visibility, delivering a clear, measurable return on investment within just a few weeks.
+שיפור דרמטי בנראות התפעולית וקיצוץ ממוצע של 30% בהוצאות התפעול השוטפות, עם החזר השקעה מהיר ונראה לעין תוך שבועות בודדים
 
 
 
 
 
 ⚙️
-Custom AI Processes
+תהליכי AI מותאמים אישית
 
 
 🔄
-End-to-End Operational Automation
+אוטומציה תפעולית מקצה לקצה
 
 
 📊
-Full Strategic Implementation
+הטמעה אסטרטגית מלאה
 
 
 
