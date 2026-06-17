@@ -63,7 +63,7 @@ Description: גלה כיצד TripleA.I מייעלת תהליכים עסקיים,
 - שירותים
 - למה אנחנו
 - How It Works
-- נתונים
+- Results
 
 
 
@@ -572,54 +572,52 @@ Execution Speed
 
 
 
-Smart automation and AI solutions for businesses. We turn complex processes into simple, fast, and profitable ones.
+פתרונות אוטומציה חכמים ובינה מלאכותית לעסקים. אנחנו הופכים תהליכים מורכבים לפשוטים, מהירים ורווחיים.
 
 
 
 
 
 
-#### Quick navigation
+#### ניווט מהיר
 
-- Services
-- Why Us
-- How It Works
-- Results
-
-
+- שירותים
+- למה אנחנו
+- איך זה עובד
+- נתונים
 
 
 
 
-#### Contact us
+
+
+#### צור קשר
 
 - amir.tatarsky@gmail.com
 - 972-52-3450000+
-- Even Yehuda, Israel
+- אבן יהודה, ישראל
 
 
 
 
 
 
-#### Business hours
+#### שעות פעילות
 
-- Sunday 09:00 - 17:00
-- Monday 09:00 - 17:00
-- Tuesday 09:00 - 17:00
-- Wednesday 09:00 - 17:00
-- Thursday 09:00 - 17:00
-- Friday Closed
-- Saturday Closed
-
-
+- יום ראשון 09:00 - 17:00
+- יום שני 09:00 - 17:00
+- יום שלישי 09:00 - 17:00
+- יום רביעי 09:00 - 17:00
+- יום חמישי 09:00 - 17:00
+- יום שישי סגור
+- יום שבת סגור
 
 
 
 
-#### Follow us
 
 
+#### עקבו אחרינו
 
 
 
@@ -630,17 +628,19 @@ Smart automation and AI solutions for businesses. We turn complex processes into
 
 
 
-© 2026 TripleA.I. All rights reserved.
 
 
-Privacy Policy
+© 2026 TripleA.I. כל הזכויות שמורות.
+
+
+מדיניות פרטיות
 |
-Terms of Use
+תנאי שימוש
 |
-Accessibility
+נגישות
 
 
-Created with Zappy
+נוצר באמצעות Zappy
 
 ---
 
@@ -686,7 +686,7 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 - שירותים
 - למה אנחנו
 - How It Works
-- נתונים
+- Results
 
 
 
@@ -841,54 +841,52 @@ TripleA.I ("החברה", "אנו", "שלנו") מחויבת להגן על פרט
 
 
 
-Smart automation and AI solutions for businesses. We turn complex processes into simple, fast, and profitable ones.
+פתרונות אוטומציה חכמים ובינה מלאכותית לעסקים. אנחנו הופכים תהליכים מורכבים לפשוטים, מהירים ורווחיים.
 
 
 
 
 
 
-#### Quick navigation
+#### ניווט מהיר
 
-- Services
-- Why Us
-- How It Works
-- Results
-
-
+- שירותים
+- למה אנחנו
+- איך זה עובד
+- נתונים
 
 
 
 
-#### Contact us
+
+
+#### צור קשר
 
 - amir.tatarsky@gmail.com
 - 972-52-3450000+
-- Even Yehuda, Israel
+- אבן יהודה, ישראל
 
 
 
 
 
 
-#### Business hours
+#### שעות פעילות
 
-- Sunday 09:00 - 17:00
-- Monday 09:00 - 17:00
-- Tuesday 09:00 - 17:00
-- Wednesday 09:00 - 17:00
-- Thursday 09:00 - 17:00
-- Friday Closed
-- Saturday Closed
-
-
+- יום ראשון 09:00 - 17:00
+- יום שני 09:00 - 17:00
+- יום שלישי 09:00 - 17:00
+- יום רביעי 09:00 - 17:00
+- יום חמישי 09:00 - 17:00
+- יום שישי סגור
+- יום שבת סגור
 
 
 
 
-#### Follow us
 
 
+#### עקבו אחרינו
 
 
 
@@ -899,17 +897,19 @@ Smart automation and AI solutions for businesses. We turn complex processes into
 
 
 
-© 2026 TripleA.I. All rights reserved.
 
 
-Privacy Policy
+© 2026 TripleA.I. כל הזכויות שמורות.
+
+
+מדיניות פרטיות
 |
-Terms of Use
+תנאי שימוש
 |
-Accessibility
+נגישות
 
 
-Created with Zappy
+נוצר באמצעות Zappy
 
 ---
 
@@ -955,7 +955,7 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 - שירותים
 - למה אנחנו
 - How It Works
-- נתונים
+- Results
 
 
 
@@ -1115,54 +1115,52 @@ TripleA.I מחויבת להנגיש את השירותים לכלל הציבור.
 
 
 
-Smart automation and AI solutions for businesses. We turn complex processes into simple, fast, and profitable ones.
+פתרונות אוטומציה חכמים ובינה מלאכותית לעסקים. אנחנו הופכים תהליכים מורכבים לפשוטים, מהירים ורווחיים.
 
 
 
 
 
 
-#### Quick navigation
+#### ניווט מהיר
 
-- Services
-- Why Us
-- How It Works
-- Results
-
-
+- שירותים
+- למה אנחנו
+- איך זה עובד
+- נתונים
 
 
 
 
-#### Contact us
+
+
+#### צור קשר
 
 - amir.tatarsky@gmail.com
 - 972-52-3450000+
-- Even Yehuda, Israel
+- אבן יהודה, ישראל
 
 
 
 
 
 
-#### Business hours
+#### שעות פעילות
 
-- Sunday 09:00 - 17:00
-- Monday 09:00 - 17:00
-- Tuesday 09:00 - 17:00
-- Wednesday 09:00 - 17:00
-- Thursday 09:00 - 17:00
-- Friday Closed
-- Saturday Closed
-
-
+- יום ראשון 09:00 - 17:00
+- יום שני 09:00 - 17:00
+- יום שלישי 09:00 - 17:00
+- יום רביעי 09:00 - 17:00
+- יום חמישי 09:00 - 17:00
+- יום שישי סגור
+- יום שבת סגור
 
 
 
 
-#### Follow us
 
 
+#### עקבו אחרינו
 
 
 
@@ -1173,17 +1171,19 @@ Smart automation and AI solutions for businesses. We turn complex processes into
 
 
 
-© 2026 TripleA.I. All rights reserved.
 
 
-Privacy Policy
+© 2026 TripleA.I. כל הזכויות שמורות.
+
+
+מדיניות פרטיות
 |
-Terms of Use
+תנאי שימוש
 |
-Accessibility
+נגישות
 
 
-Created with Zappy
+נוצר באמצעות Zappy
 
 ---
 
@@ -1229,7 +1229,7 @@ Description: תנאי השימוש באתר - הזכויות והחובות של
 - שירותים
 - למה אנחנו
 - How It Works
-- נתונים
+- Results
 
 
 
@@ -1407,54 +1407,52 @@ TripleA.I מספקת Business Automation & AI Technology דרך האתר. השי
 
 
 
-Smart automation and AI solutions for businesses. We turn complex processes into simple, fast, and profitable ones.
+פתרונות אוטומציה חכמים ובינה מלאכותית לעסקים. אנחנו הופכים תהליכים מורכבים לפשוטים, מהירים ורווחיים.
 
 
 
 
 
 
-#### Quick navigation
+#### ניווט מהיר
 
-- Services
-- Why Us
-- How It Works
-- Results
-
-
+- שירותים
+- למה אנחנו
+- איך זה עובד
+- נתונים
 
 
 
 
-#### Contact us
+
+
+#### צור קשר
 
 - amir.tatarsky@gmail.com
 - 972-52-3450000+
-- Even Yehuda, Israel
+- אבן יהודה, ישראל
 
 
 
 
 
 
-#### Business hours
+#### שעות פעילות
 
-- Sunday 09:00 - 17:00
-- Monday 09:00 - 17:00
-- Tuesday 09:00 - 17:00
-- Wednesday 09:00 - 17:00
-- Thursday 09:00 - 17:00
-- Friday Closed
-- Saturday Closed
-
-
+- יום ראשון 09:00 - 17:00
+- יום שני 09:00 - 17:00
+- יום שלישי 09:00 - 17:00
+- יום רביעי 09:00 - 17:00
+- יום חמישי 09:00 - 17:00
+- יום שישי סגור
+- יום שבת סגור
 
 
 
 
-#### Follow us
 
 
+#### עקבו אחרינו
 
 
 
@@ -1465,17 +1463,19 @@ Smart automation and AI solutions for businesses. We turn complex processes into
 
 
 
-© 2026 TripleA.I. All rights reserved.
 
 
-Privacy Policy
+© 2026 TripleA.I. כל הזכויות שמורות.
+
+
+מדיניות פרטיות
 |
-Terms of Use
+תנאי שימוש
 |
-Accessibility
+נגישות
 
 
-Created with Zappy
+נוצר באמצעות Zappy
 
 ---
 
