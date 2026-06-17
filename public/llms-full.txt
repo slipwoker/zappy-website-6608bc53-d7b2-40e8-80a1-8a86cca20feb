@@ -1251,144 +1251,140 @@ English
 
 
 
-# תנאי שימוש
+# Terms of Use
 
 
+Last updated: 9.6.2026
 
-עדכון אחרון:  9.6.2026
+Use of this website constitutes agreement to the terms of use detailed below. Please read carefully before use.
 
 
+## 1. Definitions
 
-השימוש באתר זה מהווה הסכמה לתנאי השימוש המפורטים להלן. אנא קראו בעיון לפני השימוש.
 
+- "The Company" - TripleA.I
 
+- "The User" - anyone who browses or uses the website
 
-## 1. הגדרות
+- "The Services" - Business Automation & AI Technology provided through the website
 
 
-- "החברה" - TripleA.I
 
-- "המשתמש" - כל מי שגולש או משתמש באתר
 
-- "השירותים" - Business Automation & AI Technology הניתנים דרך האתר
+## 2. Description of Services
 
 
+TripleA.I provides Business Automation & AI Technology through the website. The services are subject to the terms detailed in this document and may change from time to time.
 
 
-## 2. תיאור השירותים
+## 3. Terms of Use
 
 
-TripleA.I מספקת Business Automation & AI Technology דרך האתר. השירותים כפופים לתנאים המפורטים במסמך זה ועשויים להשתנות מעת לעת.
+Use of the website is conditional upon compliance with the following terms:
 
 
-## 3. תנאי השימוש
+- Use of the website for lawful purposes only
 
+- Non-interference with the website's operation or other users
 
-השימוש באתר מותנה בעמידה בתנאים הבאים:
+- Not uploading offensive, illegal, or harmful content
 
+- Respecting copyright and intellectual property rights
 
-- השימוש באתר למטרות חוקיות בלבד
+- Not performing actions that may compromise website security
 
-- אי-הפרעה לפעילות האתר או משתמשים אחרים
 
-- אי-העלאת תוכן פוגעני, לא חוקי או מזיק
 
-- כיבוד זכויות יוצרים וקניין רוחני
 
-- אי-ביצוע פעולות שעלולות לפגוע באבטחת האתר
+## 4. User Obligations
 
 
+- Providing accurate and correct information when registering or ordering
 
+- Maintaining confidentiality of account access credentials
 
-## 4. חובות המשתמש
+- Immediate notification of any unauthorized use of the account
 
+- Updating personal information as needed
 
-- מתן מידע נכון ומדויק בעת הרשמה או הזמנה
 
-- שמירה על סודיות פרטי הגישה לחשבון
 
-- הודעה מיידית על כל שימוש לא מורשה בחשבון
 
-- עדכון מידע אישי במידת הצורך
+## 5. Payment and Refund Policy
 
 
+If the services include payment:
 
 
-## 5. מדיניות תשלומים והחזרים
+- Payments are processed through secure and encrypted systems
 
+- Prices include VAT as required by law
 
-במידה והשירותים כוללים תשלום:
+- The right to cancel a transaction shall apply in accordance with the Consumer Protection Law
 
+- Refunds will be processed within 14 business days of cancellation approval
 
-- התשלומים מבוצעים דרך מערכות בטוחות ומוצפנות
 
-- המחירים כוללים מע"ם כנדרש בחוק
 
-- זכות ביטול עסקה תעמוד בהתאם לחוק הגנת הצרכן
 
-- החזרים יבוצעו תוך 14 ימי עסקים מאישור הביטול
+## 6. Limitation of Liability
 
 
+The services are provided "as is" without warranty of any kind. The company shall not be liable for indirect, consequential, or special damages arising from the use of the website, except in cases where the law provides otherwise.
 
 
-## 6. הגבלת אחריות
+## 7. Copyright and Intellectual Property
 
 
-השירותים ניתנים "כפי שהם" ללא אחריות מכל סוג. החברה לא תהיה אחראית לנזקים עקיפים, תוצאתיים או מיוחדים הנובעים משימוש באתר, למעט במקרים בהם החוק קובע אחרת.
+All content on the website, including texts, images, design, and code, is protected by copyright belonging to TripleA.I. Reproduction, distribution, or commercial use of the content without written permission is prohibited.
 
 
-## 7. זכויות יוצרים וקניין רוחני
+## 8. Privacy
 
 
-כל התכנים באתר, כולל טקסטים, תמונות, עיצוב וקוד, מוגנים בזכויות יוצרים השייכות לTripleA.I. אסור לשכפל, להפיץ או לעשות שימוש מסחרי בתכנים ללא אישור בכתב.
+The collection and use of personal information is subject to our Privacy Policy. Use of the website constitutes consent to the Privacy Policy as detailed separately.
 
 
-## 8. פרטיות
+## 9. Changes to Terms of Use
 
 
-איסוף ושימוש במידע אישי כפופים למדיניות הפרטיות שלנו. השימוש באתר מהווה הסכמה למדיניות הפרטיות כפי שמפורט בנפרד.
+The company may modify these terms of use at any time. Material changes will be published on the website with advance notice of 30 days. Continued use after the change constitutes acceptance of the new terms.
 
 
-## 9. שינוי תנאי השימוש
+## 10. Termination of Service
 
 
-החברה רשאית לשנות תנאי שימוש אלה בכל עת. שינויים מהותיים יפורסמו באתר עם הודעה מוקדמת של 30 יום. המשך השימוש לאחר השינוי מהווה הסכמה לתנאים החדשים.
+The company may suspend or restrict the service at any time, including in the event of a breach of the terms of use. In the event of termination of service, the provisions of the relevant sections shall remain in effect.
 
 
-## 10. סיום השירות
+## 11. Governing Law and Dispute Resolution
 
 
-החברה רשאית להפסיק או להגביל את השירות בכל עת, לרבות במקרה של הפרת תנאי השימוש. במקרה של סיום השירות, יישמרו הוראות הסעיפים הרלוונטיים.
+These terms of use are governed by the laws of the State of Israel. Any dispute shall be heard in the competent courts in Israel, with preference given to arbitration or mediation where possible.
 
 
-## 11. דין חל ויישוב סכסוכים
+## 12. General Provisions
 
 
-תנאי שימוש אלה כפופים לחוקי מדינת ישראל. כל סכסוך יידון בבתי המשפט המוסמכים בישראל, תוך מתן עדיפות לבוררות או גישור במידת האפשר.
+- If any of the terms are declared invalid, the remaining terms shall remain in effect
 
+- Non-enforcement of a right shall not be considered a waiver thereof
 
-## 12. הוראות כלליות
+- The terms of use constitute the entire agreement between the parties
 
 
-- אם חלק מהתנאים יוכרז כבלתי תקף, יישארו שאר התנאים בתוקף
 
-- אי-אכיפה של זכות לא תחשב כוויתור עליה
 
-- תנאי השימוש מהווים את מלוא ההסכם בין הצדדים
 
+## 13. Contact Information
 
 
+For questions or clarifications regarding the terms of use:
 
-
-## 13. פרטי יצירת קשר
-
-
-לשאלות או הבהרות בנוגע לתנאי השימוש:
-
-- חברה: TripleA.I
-- אימייל: amir.tatarsky@gmail.com
-- טלפון: 972-52-3450000+
-- כתובת: אבן יהודה, ישראל
+- Company: TripleA.I
+- Email: amir.tatarsky@gmail.com
+- טלפון: Email:972-52-3450000+
+- Address: Even Yehuda, Israel
 
 
 
