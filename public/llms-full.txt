@@ -172,8 +172,8 @@ Designing and implementing automated systems powered by n8n and Make, Tailored p
 
 - Full integration between CRM, ERP, and marketing tools
 - Complex business logic that runs automatically 24/7
-- Save up to 80% of manual work time on repetitive processes
-- Immediate increase in team output without hiring additional staff
+- Save up to 80% of manual work time on repetitive tasks
+- Immediate boost in team output without expanding headcount
 
 
 
@@ -183,7 +183,7 @@ Designing and implementing automated systems powered by n8n and Make, Tailored p
 
 
 
-### End-to-end operational automation
+### End-to-End operational automation
 
 
 Mapping, optimizing and accelerating the entire operational value chain — from inventory management to customer service — using smart automation that places you at the forefront of technology.
