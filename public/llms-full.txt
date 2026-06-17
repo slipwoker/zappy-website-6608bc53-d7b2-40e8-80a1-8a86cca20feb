@@ -171,9 +171,9 @@ Custom automation architecture and AI systems, that transform complex manual pro
 Designing and implementing automated systems powered by n8n and Make, tailored precisely to your operational needs - from lead to invoice.
 
 - Full integration between CRM, ERP, and marketing tools
-- Complex business logic that runs automatically 24/7
-- Save up to 80% of manual work time on repetitive processes
-- Immediate increase in team output without hiring additional staff
+- Complex business logic running automatically 24/7
+- Save up to 80% of manual work time on repetitive tasks
+- Immediate boost in team output without expanding headcount
 
 
 
