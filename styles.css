@@ -5535,7 +5535,7 @@ html[dir="ltr"] .site-footer .footer-col h4::after {
   display: flex !important;
   flex-direction: row !important;
   justify-content: center !important;
-  gap: 48px !important;
+  gap: 0px !important;
   flex-wrap: wrap !important;
   margin-bottom: 48px !important;
 }
@@ -5608,7 +5608,7 @@ html[dir="ltr"] .site-footer .footer-col h4::after {
 }
 
 .fm-section .fm-features {
-  gap: 28px !important;
+  gap: 0px !important;
 }
 
 .fm-section .fm-feature-icon {
@@ -5626,9 +5626,73 @@ html[dir="ltr"] .site-footer .footer-col h4::after {
   flex-direction: row !important;
   align-items: center !important;
   justify-content: center !important;
-  gap: 0 !important;
+  gap: 0px !important;
   flex-wrap: wrap !important;
   padding: 24px 0 !important;
+}
+
+.fm-section .fm-feature-item {
+  display: flex !important;
+  flex-direction: row !important;
+  align-items: center !important;
+  gap: 10px !important;
+  padding: 12px 20px !important;
+  background: rgba(255, 255, 255, 0.06) !important;
+  border-radius: 12px !important;
+  border: 1px solid rgba(255, 255, 255, 0.1) !important;
+}
+
+.fm-section .fm-feature-icon {
+  font-size: 1.6rem !important;
+  line-height: 1 !important;
+}
+
+.fm-section .fm-feature-text {
+  color: #FFFFFF !important;
+  font-weight: 500 !important;
+  font-size: 1.05rem !important;
+  white-space: nowrap !important;
+}
+
+.fm-section .fm-feature-arrow {
+  font-size: 1.4rem !important;
+  color: #C49A5E !important;
+  margin: 0 12px !important;
+  font-weight: 300 !important;
+}
+
+@media (max-width: 768px) {
+.fm-section .fm-features {
+  gap: 0px !important;
+}
+
+.fm-section .fm-feature-arrow {
+  display: none !important;
+}
+}
+
+.fm-section .fm-badge {
+  color: #FFFFFF !important;
+}
+
+.fm-section .fm-title {
+  color: #FFFFFF !important;
+}
+
+.fm-section .fm-subtitle {
+  color: #FFFFFF !important;
+}
+
+.fm-section .fm-feature-icon {
+  color: #FFFFFF !important;
+}
+
+.fm-section .fm-cta {
+  color: #FFFFFF !important;
+}
+
+.fm-section .fm-feature-text {
+  color: #C49A5E !important;
 }
 
 .fm-section .fm-feature-item {
@@ -5688,6 +5752,10 @@ html[dir="ltr"] .site-footer .footer-col h4::after {
 }
 
 .fm-section .fm-cta {
+  color: #FFFFFF !important;
+}
+
+.fm-section .fm-feature-arrow {
   color: #FFFFFF !important;
 }
 
