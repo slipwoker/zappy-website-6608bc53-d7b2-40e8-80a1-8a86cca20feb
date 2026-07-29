@@ -1,7 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Noto+Serif+Hebrew:wght@400;500;600;700&amp;display=swap');
 
-
-
 /* Self-hosted fonts (Inter + Rubik for multi-language support) */
 
 /* Inter font (English / LTR languages) */
@@ -69,6 +67,7 @@
   font-display: swap;
   src: url('assets/fonts/Rubik-Bold.woff2') format('woff2');
 }
+
 :root {
   --primary: #2563EB;
   --secondary: #1F2937;
@@ -211,37 +210,43 @@ small, .small-text {
 }
 
 @media (max-width: 1024px) {
-  h1 {
+h1 {
     font-size: 36px !important;
   }
-  h2 {
+
+h2 {
     font-size: 28px !important;
   }
-  h3 {
+
+h3 {
     font-size: 20px !important;
   }
-  p {
+
+p {
     font-size: 15px !important;
   }
 }
 
 @media (max-width: 768px) {
-  h1 {
+h1 {
     font-size: 28px !important;
     margin-bottom: 1rem !important;
     margin-top: 0.5rem !important;
   }
-  h2 {
+
+h2 {
     font-size: 22px !important;
     margin-bottom: 1rem !important;
     margin-top: 0.5rem !important;
   }
-  h3 {
+
+h3 {
     font-size: 18px !important;
     margin-bottom: 1rem !important;
     margin-top: 0.5rem !important;
   }
-  p {
+
+p {
     font-size: 14px !important;
   }
 }
@@ -332,25 +337,25 @@ html:not([dir]) .whatsapp-float {
 }
 
 @media (max-width: 768px) {
-  :root {
+:root {
     --spacing-section: var(--spacing-section-mobile);
     --spacing-card-padding: 24px;
     --spacing-card-gap: 24px;
     --spacing-element-gap: 16px;
   }
-  
-  .container {
+
+.container {
     padding: 0 16px;
   }
-  
-  .btn {
+
+.btn {
     padding: 14px 20px;
     font-size: 15px;
   }
 }
 
 @media (max-width: 480px) {
-  .btn {
+.btn {
     padding: 12px 18px;
     font-size: 14px;
     width: 100%;
@@ -584,6 +589,7 @@ html:not([dir]) .whatsapp-float {
     border-bottom: none;
   }
 }
+
 /* Base variables and reset */
 :root {
   --nav-bg: #FFFFFF;
@@ -811,7 +817,6 @@ html:not([dir]) .whatsapp-float {
   }
 }
 
-
 /* ============================================
    NAVBAR LAYOUT - POST-GENERATION FIXES
    Structural layout only - colors from Claude
@@ -877,6 +882,7 @@ html:not([dir]) .whatsapp-float {
 .nav-menu a:focus:not(:focus-visible) {
   outline: none;
 }
+
 .navbar a:focus-visible,
 .navbar button:focus-visible,
 .nav-menu a:focus-visible {
@@ -948,6 +954,7 @@ html:not([dir]) .whatsapp-float {
 .nav-cta-container .zappy-search-container {
   align-self: center;
 }
+
 .nav-cta-container p {
   margin: 0 !important;
 }
@@ -1088,7 +1095,7 @@ html:not([dir="rtl"]):not([lang="he"]):not([lang="ar"]) .dropdown-menu {
 }
 
 @media (min-width: 769px) {
-  .nav-dropdown:hover > .dropdown-menu {
+.nav-dropdown:hover > .dropdown-menu {
     display: block;
   }
 }
@@ -1677,7 +1684,6 @@ html[lang="ar"] .nav-cta-btn{order: 0 !important;margin-right: auto !important;m
 /* Post-generation fix: Remove main element margin-top and padding-top */
 main:not(.courses-page-main) { margin-top: 0 !important; padding-top: 0 !important; }
 
-
 /* Footer Styles */
 /* ===== CSS Variables ===== */
 :root {
@@ -1970,18 +1976,18 @@ main:not(.courses-page-main) { margin-top: 0 !important; padding-top: 0 !importa
 }
 
 @media (max-width: 480px) {
-  .site-footer {
+.site-footer {
     padding: 2.5rem 1rem 0;
   }
 
-  .footer-bottom {
+.footer-bottom {
     padding: 1.5rem 0;
   }
 }
 
-
 /* V2 Decorative Helpers — quote marks */
 :root { --decorative-quote-color: var(--accent, #b48b59); --decorative-quote-font: var(--accent-font, var(--font-display, serif)); }
+
 blockquote::before, .quote::before, [data-quote]::before {
   content: "\201C";
   font-family: var(--decorative-quote-font);
@@ -1992,6 +1998,7 @@ blockquote::before, .quote::before, [data-quote]::before {
   vertical-align: -0.4em;
   display: inline-block;
 }
+
 blockquote::after, .quote::after, [data-quote]::after {
   content: "\201D";
   font-family: var(--decorative-quote-font);
@@ -2002,7 +2009,9 @@ blockquote::after, .quote::after, [data-quote]::after {
   vertical-align: -0.6em;
   display: inline-block;
 }
+
 blockquote::before, html[dir="rtl"] .quote::before, html[dir="rtl"] [data-quote]::before{content: "\201D";}
+
 blockquote::after, html[dir="rtl"] .quote::after, html[dir="rtl"] [data-quote]::after{content: "\201C";}
 
 /* V2 Decorative Helpers — section divider flourish */
@@ -2035,15 +2044,17 @@ hr.section-flourish, .section-flourish, [data-section-divider] {
   pointer-events: none;
   z-index: 2;
 }
+
 .scroll-cue svg, [data-scroll-cue] svg { width: 1rem; height: 1rem; opacity: 0.7; }
+
 @media (prefers-reduced-motion: no-preference) {
-  .scroll-cue svg, [data-scroll-cue] svg { animation: decorative-scroll-bounce 2s ease-in-out infinite; }
+.scroll-cue svg, [data-scroll-cue] svg { animation: decorative-scroll-bounce 2s ease-in-out infinite; }
 }
+
 @keyframes decorative-scroll-bounce {
   0%, 100% { transform: translateY(0); }
   50% { transform: translateY(4px); }
 }
-
 
 /* Footer Contrast Guard — overrides dark-on-dark text */
 .site-footer .contact-list a,
@@ -2057,23 +2068,31 @@ hr.section-flourish, .section-flourish, [data-section-divider] {
 .site-footer .footer-bottom span:not(.separator) {
   color: #6B7280 !important;
 }
+
 .site-footer .contact-list a:hover,
 .site-footer .footer-legal a:hover,
 .site-footer .footer-bottom a:hover {
   color: #FFFFFF !important;
 }
+
 .site-footer .footer-legal .separator {
   color: #334155 !important;
 }
+
 /* Footer contact alignment fix */
 .footer-contact li > a { display: flex; align-items: flex-start; gap: inherit; }
+
 /* RTL footer contact: icon on the right (start) side, text on the left */
 .footer-contact li,
 html[dir="rtl"] .site-footer .footer-contact li,
 html[dir="rtl"] .site-footer .footer-col:nth-child(3) .footer-contact li{flex-direction: row !important;justify-content: flex-start !important;}
+
 .footer-contact .contact-icon{order: 0 !important;}
+
 .footer-contact .contact-text{order: 1 !important;}
+
 .footer-contact li > a{flex-direction: row !important;}
+
 /* hero */
 .index-hero-section {
   position: relative;
@@ -2322,13 +2341,16 @@ html[dir="rtl"] .site-footer .footer-col:nth-child(3) .footer-contact li{flex-di
     font-size: 1.25rem;
   }
 }
+
 /* ZAPPY_POSTGEN_GUARD_HERO_FONT_CAP:index-hero */
 .hero h1, .hero-section h1, [class*="hero-"] h1, [class~="hero"] h1, .hero .hero-title, .hero-title { font-size: 48px !important; line-height: 1.2 !important; }
+
 @media (max-width: 1024px) {
-  .hero h1, .hero-section h1, [class*="hero-"] h1, [class~="hero"] h1, .hero .hero-title, .hero-title { font-size: 36px !important; }
+.hero h1, .hero-section h1, [class*="hero-"] h1, [class~="hero"] h1, .hero .hero-title, .hero-title { font-size: 36px !important; }
 }
+
 @media (max-width: 768px) {
-  .hero h1, .hero-section h1, [class*="hero-"] h1, [class~="hero"] h1, .hero .hero-title, .hero-title { font-size: 28px !important; }
+.hero h1, .hero-section h1, [class*="hero-"] h1, [class~="hero"] h1, .hero .hero-title, .hero-title { font-size: 28px !important; }
 }/* services */
 /* ==========================================================================
    TripleA.I | Services Section (בית-services)
@@ -2764,74 +2786,74 @@ html[dir="rtl"] .site-footer .footer-col:nth-child(3) .footer-contact li{flex-di
 }
 
 @media (min-width: 768px) {
-  .index-benefits-section {
+.index-benefits-section {
     padding: 96px 32px;
     padding-bottom: calc(96px + 80px);
   }
 
-  .index-benefits-section__container {
+.index-benefits-section__container {
     flex-direction: row;
     align-items: flex-start;
   }
 
-  .index-benefits-section__content {
+.index-benefits-section__content {
     flex: 0 0 58%;
   }
 
-  .index-benefits-section__graphic {
+.index-benefits-section__graphic {
     flex: 0 0 42%;
     padding-inline-start: 32px;
     position: sticky;
     top: 120px;
   }
 
-  .index-benefits-section__title {
+.index-benefits-section__title {
     font-size: 2.5rem;
   }
 }
 
 @media (max-width: 768px) {
-  .index-benefits-section {
+.index-benefits-section {
     padding: 64px 16px;
     padding-bottom: calc(64px + 80px);
   }
 
-  .index-benefits-section__grid {
+.index-benefits-section__grid {
     grid-template-columns: 1fr !important;
     gap: 24px;
   }
 
-  .index-benefits-section__card {
+.index-benefits-section__card {
     padding: 24px;
   }
 
-  .index-benefits-section__title {
+.index-benefits-section__title {
     font-size: 1.75rem;
   }
 
-  .index-benefits-section__graphic {
+.index-benefits-section__graphic {
     margin-top: 32px;
   }
 
-  .index-benefits-section__diagram {
+.index-benefits-section__diagram {
     max-width: 100%;
   }
 
-  .index-benefits-section__graphic-img {
+.index-benefits-section__graphic-img {
     max-width: 100%;
   }
 }
 
 @media (max-width: 480px) {
-  .index-benefits-section__header {
+.index-benefits-section__header {
     margin-bottom: 32px;
   }
 
-  .index-benefits-section__card {
+.index-benefits-section__card {
     padding: 20px;
   }
 
-  .index-benefits-section__card-title {
+.index-benefits-section__card-title {
     font-size: 1.2rem;
   }
 }/* process */
@@ -3770,36 +3792,36 @@ html[dir="rtl"] .site-footer .footer-col:nth-child(3) .footer-contact li{flex-di
 }
 
 @media (max-width: 768px) {
-  .index-stats-section {
+.index-stats-section {
     padding: var(--spacing-section-mobile, 64px) 16px;
     padding-bottom: calc(var(--spacing-section-mobile, 64px) + 80px);
   }
 
-  .index-stats-section__grid {
+.index-stats-section__grid {
     grid-template-columns: 1fr !important;
     gap: 24px;
   }
 
-  .index-stats-section__header {
+.index-stats-section__header {
     margin-bottom: 40px;
   }
 
-  .index-stats-section__title {
+.index-stats-section__title {
     font-size: 1.75rem;
   }
 
-  .index-stats-section__value {
+.index-stats-section__value {
     font-size: 2.5rem;
   }
 
-  .index-stats-section__trust-bar {
+.index-stats-section__trust-bar {
     flex-direction: column;
     align-items: flex-start;
     padding: 24px;
     gap: 16px;
   }
 
-  .index-stats-section__trust-separator {
+.index-stats-section__trust-separator {
     display: none;
   }
 }
@@ -4067,26 +4089,22 @@ html[dir="rtl"] .site-footer .footer-col:nth-child(3) .footer-contact li{flex-di
     }
 }
 
-
-
 /* Global font override - exclude icon fonts and special elements */
 *:not(.fas):not(.far):not(.fab):not(.fa):not([class*="fa-"]):not(.iconify):not([class*="icon"]):not(code):not(pre):not(i[class*="fa"]) {
   font-family: 'Rubik', sans-serif !important;
 }
-
-
-
-
 
 /* Footer contact alignment fix */
 .footer-contact li > a { display: flex; align-items: flex-start; gap: inherit; }
 
 /* RTL footer contact: icon on the right (start) side, text on the left */
 .footer-contact li, html[dir="rtl"] .site-footer .footer-contact li, html[dir="rtl"] .site-footer .footer-col:nth-child(3) .footer-contact li{flex-direction: row !important;justify-content: flex-start !important;}
-.footer-contact .contact-icon{order: 0 !important;}
-.footer-contact .contact-text{order: 1 !important;}
-.footer-contact li > a{flex-direction: row !important;}
 
+.footer-contact .contact-icon{order: 0 !important;}
+
+.footer-contact .contact-text{order: 1 !important;}
+
+.footer-contact li > a{flex-direction: row !important;}
 
 /* ============================================
    MOBILE RESPONSIVE FIXES (Auto-generated)
@@ -4587,19 +4605,23 @@ html[dir="rtl"] .site-footer .footer-col:nth-child(3) .footer-contact li{flex-di
   cursor: pointer;
   transition: background-color 0.15s ease, color 0.15s ease;
 }
+
 #zappy-cookie-banner .zappy-cookie-banner__close:hover {
   background-color: rgba(0, 0, 0, 0.06) !important;
   color: var(--cc-primary-color) !important;
 }
+
 #zappy-cookie-banner .zappy-cookie-banner__button:focus-visible,
 #zappy-cookie-banner .zappy-cookie-banner__close:focus-visible {
   outline: 2px solid var(--cc-btn-primary-bg) !important;
   outline-offset: 2px;
 }
+
 /* RTL: anchor the X to the top-LEFT and shift body padding accordingly. */
 [dir="rtl"] #zappy-cookie-banner {
   padding: 10px 20px 10px 56px !important;
 }
+
 [dir="rtl"] #zappy-cookie-banner .zappy-cookie-banner__close {
   right: auto !important;
   left: 12px !important;
@@ -4678,6 +4700,7 @@ html[dir="rtl"] .site-footer .footer-col:nth-child(3) .footer-contact li{flex-di
 #cc--main .pm__btn {
   border-radius: 999px !important;
 }
+
 #cc-main .pm__btn[data-role="necessary"],
 #cc--main .pm__btn[data-role="necessary"],
 #cc-main .pm__btn[data-role="save"],
@@ -4686,6 +4709,7 @@ html[dir="rtl"] .site-footer .footer-col:nth-child(3) .footer-contact li{flex-di
   color: var(--cc-btn-secondary-color) !important;
   border: 1px solid var(--cc-btn-secondary-border) !important;
 }
+
 #cc-main .pm__btn[data-role="necessary"]:hover,
 #cc--main .pm__btn[data-role="necessary"]:hover,
 #cc-main .pm__btn[data-role="save"]:hover,
@@ -4792,7 +4816,6 @@ html[dir="rtl"] .site-footer .footer-col:nth-child(3) .footer-contact li{flex-di
   white-space: nowrap !important;
   border: 0 !important;
 }
-
 
 /* Custom Accessibility Toolbar Styling - Zappy Style */
 
@@ -4944,77 +4967,111 @@ div[id*="mic-access-tool-box"] button[class*="reset"] * {
 ._access-icon {
   display: flex !important;
 }
+
 /* === NAVBAR STYLE OVERRIDES START === */
 .navbar { background-color: #FFFFFF !important; }
+
 .zappy-catalog-menu, #zappy-catalog-menu {}
+
 .navbar .nav-menu > li > a,
 .navbar .nav-menu > .nav-item > a,
 .navbar .nav-link,
 .navbar .navbar-nav .nav-link,
 .navbar a:not(.nav-cta-btn) { color: #1F2937 !important; }
+
 .navbar .nav-menu > li > a:hover,
 .navbar .nav-menu > .nav-item > a:hover,
 .navbar .nav-link:hover,
 .navbar a:not(.nav-cta-btn):hover { color: #2563EB !important; }
+
 .navbar .navbar-brand, .navbar .navbar-brand a { color: #1F2937 !important; }
+
 .navbar .dropdown-toggle { color: #1F2937 !important; }
+
 .navbar .dropdown-toggle:hover { color: #2563EB !important; }
+
 .navbar .mobile-hamburger-btn, .navbar .mobile-close-btn { color: #1F2937 !important; }
+
 .navbar-toggler { color: #1F2937 !important; border-color: #1F293744 !important; }
+
 .navbar-toggler-icon { background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='%231F2937' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e") !important; }
+
 .navbar .dropdown-menu { background-color: #FFFFFF !important; }
+
 .navbar .dropdown-menu li a,
 .navbar .dropdown-menu .dropdown-item { color: #1F2937 !important; }
+
 .navbar .dropdown-menu li a:hover,
 .navbar .dropdown-menu .dropdown-item:hover { color: #2563EB !important; background-color: rgba(128,128,128,0.1) !important; }
+
 .navbar .sub-menu,
 .navbar ul.sub-menu,
 nav.navbar .sub-menu { background-color: #FFFFFF !important; }
+
 .navbar .sub-menu a,
 .navbar .sub-menu li a,
 .navbar .nav-menu .sub-menu a,
 .navbar .nav-menu .sub-menu li a,
 .navbar .zappy-products-dropdown .sub-menu a,
 nav.navbar .sub-menu li a { color: #1F2937 !important; }
+
 .navbar .sub-menu a:hover,
 .navbar .sub-menu li a:hover,
 nav.navbar .sub-menu li a:hover { color: #2563EB !important; background-color: rgba(128,128,128,0.1) !important; }
+
 .navbar .mobile-submenu-toggle { color: #1F2937 !important; }
+
 .navbar .phone-header-btn { color: #1F2937 !important; }
+
 .navbar .nav-search-input,
 .navbar .nav-search-box .nav-search-input { color: #1F2937 !important; }
+
 .navbar .nav-search-input::placeholder { color: var(--text-muted, rgba(128,128,128,0.6)) !important; }
+
 @media (min-width: 769px) {
-  .navbar .nav-search-box .nav-search-btn { color: #1F2937 !important; }
-  .navbar .nav-search-box .nav-search-btn svg { stroke: #1F2937 !important; fill: none !important; }
+.navbar .nav-search-box .nav-search-btn { color: #1F2937 !important; }
+
+.navbar .nav-search-box .nav-search-btn svg { stroke: #1F2937 !important; fill: none !important; }
 }
+
 .navbar .nav-search-result-name { color: #1F2937 !important; }
+
 .navbar .nav-search-result-item a { color: #1F2937 !important; }
+
 .navbar .nav-search-result-price { color: var(--accent, var(--primary)) !important; }
+
 .navbar .nav-search-no-results,
 .navbar .search-no-results { color: var(--text-muted, rgba(128,128,128,0.6)) !important; }
+
 .zappy-catalog-menu, #zappy-catalog-menu { background: #FFFFFF !important; }
+
 .zappy-catalog-menu .catalog-menu-item,
 .zappy-catalog-menu .catalog-menu-all { color: #1F2937 !important; }
+
 .zappy-catalog-menu .catalog-menu-item:hover,
 .zappy-catalog-menu .catalog-menu-all:hover { color: #2563EB !important; background: rgba(128,128,128,0.1) !important; }
+
 .navbar .cart-link.nav-cart,
 .navbar .login-link.nav-login,
 .navbar .nav-search-toggle,
 .navbar .search-toggle { background: var(--bg-light, #ffffff) !important; color: var(--text-dark, #1a1a1a) !important; }
+
 .navbar .cart-link.nav-cart:hover,
 .navbar .login-link.nav-login:hover,
 .navbar .nav-search-toggle:hover,
 .navbar .search-toggle:hover { background: rgba(128,128,128,0.15) !important; color: var(--text-dark, #1a1a1a) !important; }
+
 .navbar .cart-link.nav-cart svg, .navbar .login-link.nav-login svg, .navbar .nav-search-toggle svg, .navbar .search-toggle svg { color: inherit !important; fill: none !important; stroke: currentColor !important; }
 
 .navbar.scrolled .cart-link.nav-cart,
 .navbar.scrolled .login-link.nav-login,
 .navbar.scrolled .nav-search-toggle,
 .navbar.scrolled .search-toggle { background: var(--bg-light, #ffffff) !important; color: var(--text-dark, #1a1a1a) !important; }
+
 @media (max-width: 768px) {
-  .navbar { background-color: #FFFFFF !important; background-image: none !important; backdrop-filter: none !important; -webkit-backdrop-filter: none !important; box-shadow: none !important; }
-  /* Kill backdrop-filter on EVERY navbar state at mobile (not just base .navbar).
+.navbar { background-color: #FFFFFF !important; background-image: none !important; backdrop-filter: none !important; -webkit-backdrop-filter: none !important; box-shadow: none !important; }
+
+/* Kill backdrop-filter on EVERY navbar state at mobile (not just base .navbar).
      A backdrop-filter makes the navbar the containing block for fixed-positioned
      descendants, so the fixed mobile menu's top/bottom resolve against the ~70px
      navbar instead of the viewport and the open menu collapses to a sliver on
@@ -5022,25 +5079,42 @@ nav.navbar .sub-menu li a:hover { color: #2563EB !important; background-color: r
      generated ".navbar.scrolled { backdrop-filter: ... !important }" rule. The
      mobile navbar background is solid, so the blur is purely decorative here. */
   .navbar.scrolled, nav.navbar.scrolled, .navbar.active, .navbar.open, .navbar.show, .navbar.menu-open, .zappy-catalog-menu, #zappy-catalog-menu, .zappy-catalog-menu.scrolled, #zappy-catalog-menu.scrolled { backdrop-filter: none !important; -webkit-backdrop-filter: none !important; }
-  .zappy-catalog-menu, #zappy-catalog-menu { background-image: none !important; }
-  .navbar::before, .navbar::after { background: transparent !important; opacity: 0 !important; }
-  body.menu-open .navbar, body.nav-open .navbar, body.mobile-menu-open .navbar, .navbar.scrolled, .navbar.active, .navbar.open, .navbar.show, .navbar.menu-open, .navbar:has(.nav-menu.active), .navbar:has(#navMenu.active), .navbar:has(.mobile-menu.active), .navbar:has(.mobile-toggle.active), .navbar:has(#mobileToggle.active) { background-color: #FFFFFF !important; }
-  .nav-menu, .nav-menu.active, .nav-menu.nav-menu-active, #navMenu, #navMenu.active, .mobile-menu, .mobile-menu.active, .mobile-nav, .mobile-nav.active { background-color: #FFFFFF !important; background: #FFFFFF !important; }
-  .nav-menu.active, .nav-menu.nav-menu-active, #navMenu.active, .mobile-menu.active, .mobile-nav.active { height: calc(100dvh - 70px) !important; max-height: calc(100dvh - 70px) !important; overflow-y: auto !important; }
-  .nav-menu a, .nav-menu > li > a, #navMenu a, #navMenu > li > a { color: #1F2937 !important; }
-  .nav-menu a:hover, .nav-menu > li > a:hover { color: #2563EB !important; }
-  .nav-menu .dropdown-menu { background: rgba(128,128,128,0.06) !important; }
-  .nav-menu .dropdown-menu a, .nav-menu .dropdown-menu li a { color: #1F2937 !important; }
-  .nav-menu .dropdown-menu a:hover { color: #2563EB !important; }
-  .nav-menu .sub-menu a { color: #1F2937 !important; white-space: normal !important; }
-  .nav-menu .sub-menu a:hover { color: #2563EB !important; }
-  .nav-menu > li { position: relative !important; }
-  .navbar .nav-menu .mobile-submenu-toggle { color: #1F2937 !important; position: static !important; height: auto !important; flex-shrink: 0 !important; align-self: stretch !important; }
-  .mobile-toggle { color: #1F2937 !important; }
-  .mobile-toggle svg { color: inherit !important; }
-  .mobile-toggle svg path { stroke: currentColor !important; }
-  
-  /* When menu is open or navbar is scrolled in mobile, the background is dropdownBg, so text should be mobileMenuText */
+
+.zappy-catalog-menu, #zappy-catalog-menu { background-image: none !important; }
+
+.navbar::before, .navbar::after { background: transparent !important; opacity: 0 !important; }
+
+body.menu-open .navbar, body.nav-open .navbar, body.mobile-menu-open .navbar, .navbar.scrolled, .navbar.active, .navbar.open, .navbar.show, .navbar.menu-open, .navbar:has(.nav-menu.active), .navbar:has(#navMenu.active), .navbar:has(.mobile-menu.active), .navbar:has(.mobile-toggle.active), .navbar:has(#mobileToggle.active) { background-color: #FFFFFF !important; }
+
+.nav-menu, .nav-menu.active, .nav-menu.nav-menu-active, #navMenu, #navMenu.active, .mobile-menu, .mobile-menu.active, .mobile-nav, .mobile-nav.active { background-color: #FFFFFF !important; background: #FFFFFF !important; }
+
+.nav-menu.active, .nav-menu.nav-menu-active, #navMenu.active, .mobile-menu.active, .mobile-nav.active { height: calc(100dvh - 70px) !important; max-height: calc(100dvh - 70px) !important; overflow-y: auto !important; }
+
+.nav-menu a, .nav-menu > li > a, #navMenu a, #navMenu > li > a { color: #1F2937 !important; }
+
+.nav-menu a:hover, .nav-menu > li > a:hover { color: #2563EB !important; }
+
+.nav-menu .dropdown-menu { background: rgba(128,128,128,0.06) !important; }
+
+.nav-menu .dropdown-menu a, .nav-menu .dropdown-menu li a { color: #1F2937 !important; }
+
+.nav-menu .dropdown-menu a:hover { color: #2563EB !important; }
+
+.nav-menu .sub-menu a { color: #1F2937 !important; white-space: normal !important; }
+
+.nav-menu .sub-menu a:hover { color: #2563EB !important; }
+
+.nav-menu > li { position: relative !important; }
+
+.navbar .nav-menu .mobile-submenu-toggle { color: #1F2937 !important; position: static !important; height: auto !important; flex-shrink: 0 !important; align-self: stretch !important; }
+
+.mobile-toggle { color: #1F2937 !important; }
+
+.mobile-toggle svg { color: inherit !important; }
+
+.mobile-toggle svg path { stroke: currentColor !important; }
+
+/* When menu is open or navbar is scrolled in mobile, the background is dropdownBg, so text should be mobileMenuText */
   .navbar.scrolled .mobile-toggle, .navbar.scrolled .mobile-hamburger-btn, .navbar.scrolled .mobile-close-btn,
   .navbar.scrolled .navbar-brand, .navbar.scrolled .dropdown-toggle, .navbar.scrolled .phone-header-btn,
   body.menu-open .navbar .mobile-toggle, body.nav-open .navbar .mobile-toggle, body.mobile-menu-open .navbar .mobile-toggle,
@@ -5054,7 +5128,8 @@ nav.navbar .sub-menu li a:hover { color: #2563EB !important; background-color: r
   .navbar:has(.nav-menu.active) .phone-header-btn, .navbar:has(#navMenu.active) .phone-header-btn, .navbar:has(.mobile-menu.active) .phone-header-btn, .navbar:has(.mobile-toggle.active) .phone-header-btn {
     color: #1F2937 !important;
   }
-  .navbar.scrolled .mobile-toggle svg, .navbar.scrolled .mobile-hamburger-btn svg, .navbar.scrolled .mobile-close-btn svg,
+
+.navbar.scrolled .mobile-toggle svg, .navbar.scrolled .mobile-hamburger-btn svg, .navbar.scrolled .mobile-close-btn svg,
   .navbar.scrolled .navbar-brand svg, .navbar.scrolled .dropdown-toggle svg, .navbar.scrolled .phone-header-btn svg,
   body.menu-open .navbar .mobile-toggle svg, body.nav-open .navbar .mobile-toggle svg, body.mobile-menu-open .navbar .mobile-toggle svg,
   .navbar.active .mobile-toggle svg, .navbar.open .mobile-toggle svg, .navbar.show .mobile-toggle svg, .navbar.menu-open .mobile-toggle svg,
@@ -5068,7 +5143,8 @@ nav.navbar .sub-menu li a:hover { color: #2563EB !important; background-color: r
     color: #1F2937 !important;
     stroke: currentColor !important;
   }
-  .navbar.scrolled .mobile-toggle svg path, .navbar.scrolled .mobile-hamburger-btn svg path, .navbar.scrolled .mobile-close-btn svg path,
+
+.navbar.scrolled .mobile-toggle svg path, .navbar.scrolled .mobile-hamburger-btn svg path, .navbar.scrolled .mobile-close-btn svg path,
   .navbar.scrolled .navbar-brand svg path, .navbar.scrolled .dropdown-toggle svg path, .navbar.scrolled .phone-header-btn svg path,
   body.menu-open .navbar .mobile-toggle svg path, body.nav-open .navbar .mobile-toggle svg path, body.mobile-menu-open .navbar .mobile-toggle svg path,
   .navbar.active .mobile-toggle svg path, .navbar.open .mobile-toggle svg path, .navbar.show .mobile-toggle svg path, .navbar.menu-open .mobile-toggle svg path,
@@ -5081,36 +5157,47 @@ nav.navbar .sub-menu li a:hover { color: #2563EB !important; background-color: r
   .navbar:has(.nav-menu.active) .navbar-brand svg path, .navbar:has(#navMenu.active) .navbar-brand svg path, .navbar:has(.mobile-menu.active) .navbar-brand svg path, .navbar:has(.mobile-toggle.active) .navbar-brand svg path {
     stroke: currentColor !important;
   }
-  
-  .navbar.scrolled .mobile-toggle svg { color: inherit !important; }
-  .navbar.scrolled .mobile-toggle svg path { stroke: currentColor !important; }
-  
-  .navbar.scrolled .nav-menu > li > a,
+
+.navbar.scrolled .mobile-toggle svg { color: inherit !important; }
+
+.navbar.scrolled .mobile-toggle svg path { stroke: currentColor !important; }
+
+.navbar.scrolled .nav-menu > li > a,
   .navbar.scrolled .nav-menu > .nav-item > a,
   .navbar.scrolled .nav-link,
   .navbar.scrolled a:not(.nav-cta-btn) { color: #1F2937 !important; }
-  .cart-link.nav-cart,
+
+.cart-link.nav-cart,
   .login-link.nav-login,
   .nav-search-toggle,
   .search-toggle { background: var(--bg-light, #ffffff) !important; color: var(--text-dark, #1a1a1a) !important; }
-  .cart-link.nav-cart svg,
+
+.cart-link.nav-cart svg,
   .login-link.nav-login svg,
   .nav-search-toggle svg,
   .search-toggle svg { stroke: var(--text-dark, #1a1a1a) !important; color: var(--text-dark, #1a1a1a) !important; }
-  .mobile-search-panel { color: #FFFFFF !important; }
-  .mobile-search-panel input { color: #FFFFFF !important; background: rgba(255,255,255,0.12) !important; }
-  .mobile-search-panel .close-search { color: #FFFFFF !important; background: rgba(255,255,255,0.15) !important; }
-  .mobile-search-panel .close-search svg { stroke: #FFFFFF !important; color: #FFFFFF !important; }
-  .mobile-search-panel .close-search:hover { color: #FFFFFF !important; background: rgba(255,255,255,0.25) !important; }
-  .mobile-search-panel .close-search:hover svg { stroke: #FFFFFF !important; color: #FFFFFF !important; }
-  .navbar .zappy-products-dropdown .sub-menu,
+
+.mobile-search-panel { color: #FFFFFF !important; }
+
+.mobile-search-panel input { color: #FFFFFF !important; background: rgba(255,255,255,0.12) !important; }
+
+.mobile-search-panel .close-search { color: #FFFFFF !important; background: rgba(255,255,255,0.15) !important; }
+
+.mobile-search-panel .close-search svg { stroke: #FFFFFF !important; color: #FFFFFF !important; }
+
+.mobile-search-panel .close-search:hover { color: #FFFFFF !important; background: rgba(255,255,255,0.25) !important; }
+
+.mobile-search-panel .close-search:hover svg { stroke: #FFFFFF !important; color: #FFFFFF !important; }
+
+.navbar .zappy-products-dropdown .sub-menu,
   .navbar .zappy-products-dropdown > .sub-menu {
     display: none !important; position: static !important; max-height: 0 !important;
     overflow: hidden !important; opacity: 0 !important; visibility: hidden !important;
     pointer-events: none !important; box-shadow: none !important; border: none !important;
     padding: 0 !important; transform: none !important;
   }
-  .navbar .zappy-products-dropdown:hover .sub-menu,
+
+.navbar .zappy-products-dropdown:hover .sub-menu,
   .navbar .zappy-products-dropdown:hover > .sub-menu,
   .navbar .zappy-products-dropdown:focus-within .sub-menu,
   .navbar .zappy-products-dropdown:focus-within > .sub-menu,
@@ -5119,7 +5206,8 @@ nav.navbar .sub-menu li a:hover { color: #2563EB !important; background-color: r
     display: none !important; opacity: 0 !important; visibility: hidden !important;
     max-height: 0 !important; pointer-events: none !important;
   }
-  .navbar .zappy-products-dropdown.open .sub-menu,
+
+.navbar .zappy-products-dropdown.open .sub-menu,
   .navbar .zappy-products-dropdown.open > .sub-menu,
   .navbar .zappy-products-dropdown .sub-menu.mobile-expanded,
   .navbar .zappy-products-dropdown > .sub-menu.mobile-expanded,
@@ -5131,6 +5219,7 @@ nav.navbar .sub-menu li a:hover { color: #2563EB !important; background-color: r
     overflow-y: visible !important; padding: 0.5rem 0 !important;
   }
 }
+
 /* === NAVBAR STYLE OVERRIDES END === */
 /* Zappy custom logo size (desktop only — mobile stays at 110px/35px) */
 @media (min-width: 769px) {
@@ -5145,6 +5234,7 @@ nav.navbar .sub-menu li a:hover { color: #2563EB !important; background-color: r
     min-height: 100px !important;
   }
 }
+
 /* /Zappy custom logo size */
 
 
@@ -5239,6 +5329,7 @@ html[dir="ltr"] .site-footer .footer-col h4::after {
   width: 100%;
   height: 40px;
 }
+
 .fm-divider svg {
   width: 100%;
   height: 100%;
@@ -5250,6 +5341,7 @@ html[dir="ltr"] .site-footer .footer-col h4::after {
   display: inline-block;
   margin-bottom: 20px;
 }
+
 .fm-badge span {
   display: inline-block;
   color: #C49A5E;
@@ -5312,6 +5404,7 @@ html[dir="ltr"] .site-footer .footer-col h4::after {
   filter: drop-shadow(0 0 12px rgba(196, 154, 94, 0.35));
   transition: transform 0.3s ease, filter 0.3s ease;
 }
+
 .fm-feature-item:hover .fm-feature-icon {
   transform: translateY(-4px);
   filter: drop-shadow(0 0 20px rgba(196, 154, 94, 0.55));
@@ -5339,11 +5432,13 @@ html[dir="ltr"] .site-footer .footer-col h4::after {
   position: relative;
   cursor: pointer;
 }
+
 .fm-cta:hover {
   background: #D4AE6A;
   box-shadow: 0 6px 28px rgba(196, 154, 94, 0.4), 0 0 0 4px rgba(196, 154, 94, 0.12);
   transform: translateY(-2px);
 }
+
 .fm-cta:focus-visible {
   outline: 2px solid #C49A5E;
   outline-offset: 3px;
@@ -5386,16 +5481,19 @@ html[dir="ltr"] .site-footer .footer-col h4::after {
 }
 
 @media (max-width: 480px) {
-  .fm-title {
+.fm-title {
     font-size: 1.55rem;
   }
-  .fm-features {
+
+.fm-features {
     gap: 20px;
   }
-  .fm-feature-icon {
+
+.fm-feature-icon {
     font-size: 2rem;
   }
-  .fm-cta {
+
+.fm-cta {
     font-size: 0.9rem;
     padding: 11px 24px;
   }
@@ -5414,7 +5512,7 @@ html[dir="ltr"] .site-footer .footer-col h4::after {
 }
 
 .fm-section .fm-title {
-  font-family: 'Noto Serif Hebrew', 'Times New Roman', serif !important;
+  font-family: 'Noto Serif Hebrew', serif !important;
   font-size: 2.75rem !important;
   font-weight: 600 !important;
   color: #FFFFFF !important;
@@ -5502,11 +5600,11 @@ html[dir="ltr"] .site-footer .footer-col h4::after {
 }
 
 .fm-section .fm-title {
-  font-size: 2rem !important;
+  font-size: 2.75rem !important;
 }
 
 .fm-section .fm-subtitle {
-  font-size: 1rem !important;
+  font-size: 1.15rem !important;
 }
 
 .fm-section .fm-features {
