@@ -526,8 +526,6 @@ Smart Automation
 
 
 
-זיכרון משפחתי
-
 
 
 
@@ -541,21 +539,24 @@ Smart Automation
 
 
 📷
+
 תמונות קיימות
 
 
 🎙️
+
 הקלטות קוליות
 
 
 🎬
+
 סרט שיישאר לנצח
 
 
 
 
-ספרו לנו על יקיריכם
 
+ספרו לנו על יקיריכם
 
 
 
@@ -600,8 +601,8 @@ Smart Automation
 
 
 
-קראתי ואני מסכים ל   תנאי השימוש    ול   מדיניות הפרטיות
-I have read and agree to the    Terms of Use    and    Privacy Policy
+קראתי ואני מסכים ל  תנאי השימוש   ול  מדיניות הפרטיות
+I have read and agree to the   Terms of Use   and   Privacy Policy
 
 
 שילחו פרטים לשיחת ייעוץ ראשונית
