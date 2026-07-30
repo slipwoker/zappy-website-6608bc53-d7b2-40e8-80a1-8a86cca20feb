@@ -5535,16 +5535,17 @@ html[dir="ltr"] .site-footer .footer-col h4::after {
   display: flex !important;
   flex-direction: row !important;
   justify-content: center !important;
-  gap: 0px !important;
+  gap: 16px;
   flex-wrap: wrap !important;
   margin-bottom: 48px !important;
+  align-items: center;
 }
 
 .fm-section .fm-feature-item {
   display: flex !important;
-  flex-direction: column !important;
-  align-items: center !important;
-  gap: 12px !important;
+  flex-direction: row;
+  align-items: center;
+  gap: 8px;
   text-align: center !important;
 }
 
@@ -5624,18 +5625,18 @@ html[dir="ltr"] .site-footer .footer-col h4::after {
 .fm-section .fm-features {
   display: flex !important;
   flex-direction: row !important;
-  align-items: center !important;
+  align-items: center;
   justify-content: center !important;
-  gap: 0px !important;
+  gap: 16px;
   flex-wrap: wrap !important;
   padding: 24px 0 !important;
 }
 
 .fm-section .fm-feature-item {
   display: flex !important;
-  flex-direction: row !important;
-  align-items: center !important;
-  gap: 10px !important;
+  flex-direction: row;
+  align-items: center;
+  gap: 8px;
   padding: 12px 20px !important;
   background: rgba(255, 255, 255, 0.06) !important;
   border-radius: 12px !important;
@@ -5697,9 +5698,9 @@ html[dir="ltr"] .site-footer .footer-col h4::after {
 
 .fm-section .fm-feature-item {
   display: flex !important;
-  flex-direction: row !important;
-  align-items: center !important;
-  gap: 10px !important;
+  flex-direction: row;
+  align-items: center;
+  gap: 8px;
   padding: 12px 20px !important;
   background: rgba(255, 255, 255, 0.06) !important;
   border-radius: 12px !important;
@@ -5797,6 +5798,39 @@ html[dir="ltr"] .site-footer .footer-col h4::after {
   color: #FFFFFF !important;
   font-size: 20px !important;
   font-weight: 700 !important;
+}
+
+.fm-section .fm-feature-arrow {
+  color: #C49A5E !important;
+  font-size: 1.5rem !important;
+  font-weight: 700 !important;
+  display: flex !important;
+  align-items: center !important;
+  align-self: center !important;
+}
+
+.fm-section .fm-badge {
+  color: #C49A5E !important;
+}
+
+.fm-section .fm-title {
+  color: #C49A5E !important;
+}
+
+.fm-section .fm-subtitle {
+  color: #C49A5E !important;
+}
+
+.fm-section .fm-feature-icon {
+  color: #C49A5E !important;
+}
+
+.fm-section .fm-feature-text {
+  color: #C49A5E !important;
+}
+
+.fm-section .fm-cta {
+  color: #C49A5E !important;
 }
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
