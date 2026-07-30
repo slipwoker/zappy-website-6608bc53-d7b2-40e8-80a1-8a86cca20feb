@@ -5660,6 +5660,8 @@ html[dir="ltr"] .site-footer .footer-col h4::after {
   color: #C49A5E !important;
   margin: 0 12px !important;
   font-weight: 300 !important;
+  line-height: 1;
+  padding-top: 4px;
 }
 
 @media (max-width: 768px) {
@@ -5724,6 +5726,8 @@ html[dir="ltr"] .site-footer .footer-col h4::after {
   color: #C49A5E !important;
   margin: 0 12px !important;
   font-weight: 300 !important;
+  line-height: 1;
+  padding-top: 4px;
 }
 
 @media (max-width: 768px) {
@@ -5758,6 +5762,8 @@ html[dir="ltr"] .site-footer .footer-col h4::after {
 
 .fm-section .fm-feature-arrow {
   color: #FFFFFF !important;
+  line-height: 1;
+  padding-top: 4px;
 }
 
 .fm-section .fm-feature-text {
@@ -5768,6 +5774,8 @@ html[dir="ltr"] .site-footer .footer-col h4::after {
   color: #FFFFFF !important;
   font-size: 20px !important;
   font-weight: bold !important;
+  line-height: 1;
+  padding-top: 4px;
 }
 
 .fm-section .fm-badge {
@@ -5807,6 +5815,8 @@ html[dir="ltr"] .site-footer .footer-col h4::after {
   display: flex !important;
   align-items: center !important;
   align-self: center !important;
+  line-height: 1;
+  padding-top: 4px;
 }
 
 .fm-section .fm-badge {
