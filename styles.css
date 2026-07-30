@@ -5762,6 +5762,36 @@ html[dir="ltr"] .site-footer .footer-col h4::after {
 .fm-section .fm-feature-text {
   color: #C49A5E !important;
 }
+
+.fm-section .fm-feature-arrow {
+  color: #FFFFFF !important;
+  font-size: 20px !important;
+  font-weight: bold !important;
+}
+
+.fm-section .fm-badge {
+  color: #FFFFFF !important;
+}
+
+.fm-section .fm-title {
+  color: #FFFFFF !important;
+}
+
+.fm-section .fm-subtitle {
+  color: #FFFFFF !important;
+}
+
+.fm-section .fm-feature-icon {
+  color: #FFFFFF !important;
+}
+
+.fm-section .fm-feature-text {
+  color: #FFFFFF !important;
+}
+
+.fm-section .fm-cta {
+  color: #FFFFFF !important;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
