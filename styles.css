@@ -5829,9 +5829,10 @@ html[dir="ltr"] .site-footer .footer-col h4::after {
 }
 
 #zappy-section-51 .fm-features .fm-feature-arrow {
-  color: #FFFFFF !important;
-  font-size: 20px !important;
+  color: rgba(196, 154, 94, 0.7) !important;
+  font-size: 22px !important;
   font-weight: 700 !important;
+  margin: 0 8px !important;
 }
 
 .fm-section .fm-feature-arrow {
@@ -5868,6 +5869,45 @@ html[dir="ltr"] .site-footer .footer-col h4::after {
 
 .fm-section .fm-cta {
   color: #C49A5E !important;
+}
+
+#zappy-section-51 .fm-features .fm-feature-item {
+  background: rgba(255, 255, 255, 0.08);
+  border: 1px solid rgba(196, 154, 94, 0.35);
+  border-radius: 50px;
+  padding: 14px 28px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 10px;
+  backdrop-filter: blur(4px);
+  -webkit-backdrop-filter: blur(4px);
+  transition: all 0.3s ease;
+}
+
+#zappy-section-51 .fm-features .fm-feature-item:hover {
+  background: rgba(255, 255, 255, 0.14);
+  border-color: rgba(196, 154, 94, 0.6);
+  transform: translateY(-2px);
+}
+
+#zappy-section-51 .fm-features .fm-feature-icon {
+  font-size: 24px;
+  line-height: 1;
+}
+
+#zappy-section-51 .fm-features .fm-feature-text {
+  color: #FFFFFF;
+  font-size: 1.15rem;
+  font-weight: 500;
+  white-space: nowrap;
+}
+
+#zappy-section-51 .fm-features .fm-feature-arrow {
+  color: rgba(196, 154, 94, 0.7) !important;
+  font-size: 22px !important;
+  font-weight: 700 !important;
+  margin: 0 8px !important;
 }
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
