@@ -5914,6 +5914,8 @@ html[dir="ltr"] .fm-features .fm-feature-arrow {
   display: inline-block;
   transform: scaleX(-1);
 }
+
+.fm-features .fm-feature-arrow{display: inline-block;transform: scaleX(-1);}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
