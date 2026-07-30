@@ -529,20 +529,20 @@ Smart Automation
 
 
 
-## There are questions we never got to ask
+## יש שאלות שלא הספקנו לשאול
 
 
 
-From existing photos and voice recordings, we create a touching family film that allows future generations to get to know those they never had the chance to meet
+מתמונות קיימות והקלטות קוליות, אנחנו בונים סרט משפחתי מרגש שמאפשר לדורות הבאים להכיר את מי שלא הכירו
 
 
-📷  Existing  Photos
+📷   תמונות קיימות
 
 +
-🎙️  Voice Recordings
+🎙️  הקלטות קוליות
 
 =
-🎬  A film that will last forever
+🎬  סרט שיישאר לנצח
 
 
 
@@ -556,7 +556,7 @@ From existing photos and voice recordings, we create a touching family film that
 
 
 
-Tell us about your loved one
+ספרו לנו על יקיריכם
 
 
 
@@ -600,8 +600,8 @@ Tell us about your loved one
 
 
 
-קראתי ואני מסכים ל  תנאי השימוש   ול  מדיניות הפרטיות
-I have read and agree to the   Terms of Use   and   Privacy Policy
+קראתי ואני מסכים ל   תנאי השימוש    ול   מדיניות הפרטיות
+I have read and agree to the    Terms of Use    and    Privacy Policy
 
 
 שילחו פרטים לשיחת ייעוץ ראשונית
