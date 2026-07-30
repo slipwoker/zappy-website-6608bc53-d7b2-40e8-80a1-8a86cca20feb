@@ -5792,6 +5792,12 @@ html[dir="ltr"] .site-footer .footer-col h4::after {
 .fm-section .fm-cta {
   color: #FFFFFF !important;
 }
+
+#zappy-section-51 .fm-features .fm-feature-arrow {
+  color: #FFFFFF !important;
+  font-size: 20px !important;
+  font-weight: 700 !important;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
