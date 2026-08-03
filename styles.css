@@ -6009,6 +6009,31 @@ html[dir="ltr"] .fm-features .fm-feature-arrow {
   color: #0a1628 !important;
 }
 
+/* ENSURE: fm-feature-item-span-white */
+.fm-section .fm-feature-item span,
+.fm-feature-item span {
+  color: #FFFFFF !important;
+}
+
+
+/* ENSURE: fm-divider-intrinsic-size */
+.fm-divider,
+.fm-section .fm-divider {
+  height: auto !important;
+  max-height: none !important;
+  margin-bottom: 0 !important;
+  max-width: 800px;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.fm-divider svg,
+.fm-section .fm-divider svg {
+  width: 100% !important;
+  height: auto !important;
+  display: block;
+}
+
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
