@@ -529,13 +529,15 @@ Smart Automation
 
 
 
+
+
+
+
+
+
 ## יש שאלות שלא הספקנו לשאול
 
-
-
 מתמונות קיימות והקלטות קוליות, אנחנו בונים סרט משפחתי מרגש שמאפשר לדורות הבאים להכיר את מי שלא הכירו
-
-
 📷   תמונות קיימות
 
 +
@@ -600,8 +602,8 @@ Smart Automation
 
 
 
-קראתי ואני מסכים ל  תנאי השימוש   ול  מדיניות הפרטיות
-I have read and agree to the   Terms of Use   and   Privacy Policy
+קראתי ואני מסכים ל   תנאי השימוש    ול   מדיניות הפרטיות
+I have read and agree to the    Terms of Use    and    Privacy Policy
 
 
 שילחו פרטים לשיחת ייעוץ ראשונית
