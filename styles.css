@@ -6016,22 +6016,13 @@ html[dir="ltr"] .fm-features .fm-feature-arrow {
 }
 
 
-/* ENSURE: fm-divider-intrinsic-size */
-.fm-divider,
-.fm-section .fm-divider {
-  height: auto !important;
-  max-height: none !important;
-  margin-bottom: 0 !important;
-  max-width: 800px;
-  width: 100%;
-  margin-left: auto;
-  margin-right: auto;
-}
-.fm-divider svg,
-.fm-section .fm-divider svg {
-  width: 100% !important;
-  height: auto !important;
-  display: block;
+/* ENSURE: fm-divider-hide-redundant */
+/* The page already has index-stats-section__divider-wrapper as the section
+   transition. Hiding the in-section .fm-divider prevents a second thin
+   stroke-only "rectangle" from floating under the wave on publish. */
+.fm-section > .fm-divider,
+.fm-divider {
+  display: none !important;
 }
 
 /* mobile-submenu-overflow-fix */
