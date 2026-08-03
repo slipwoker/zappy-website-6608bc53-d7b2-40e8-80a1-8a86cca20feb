@@ -5945,6 +5945,55 @@ html[dir="ltr"] .fm-features .fm-feature-arrow {
 .fm-section .fm-cta:link {
   color: #FFFFFF !important;
 }
+
+.fm-section .fm-title,
+.fm-section .fm-subtitle {
+  color: #C49A5E !important;
+}
+
+.fm-section .fm-badge {
+  color: #C49A5E !important;
+}
+
+.fm-section .fm-subtitle {
+  color: #C49A5E !important;
+}
+
+.fm-section .fm-feature-icon {
+  color: #C49A5E !important;
+}
+
+.fm-section .fm-feature-text {
+  color: #C49A5E !important;
+}
+
+.fm-section .fm-cta {
+  color: #C49A5E !important;
+}
+
+.fm-section .fm-feature-arrow {
+  color: #C49A5E !important;
+}
+
+.fm-section .fm-cta:link {
+  color: #C49A5E !important;
+}
+
+.fm-section .fm-feature-item span {
+  color: #C49A5E !important;
+}
+
+.fm-section .fm-features > p span {
+  color: #C49A5E !important;
+}
+
+.fm-section .fm-features .fm-feature-arrow {
+  color: #C49A5E !important;
+}
+
+.fm-section .fm-title {
+  color: #C49A5E !important;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
