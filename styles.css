@@ -5994,6 +5994,21 @@ html[dir="ltr"] .fm-features .fm-feature-arrow {
 .fm-section .fm-title {
   color: #C49A5E !important;
 }
+
+/* ENSURE: fm-cta-text-contrast */
+.fm-section .fm-cta,
+.fm-section .fm-cta:link,
+.fm-section .fm-cta:visited,
+.fm-section .fm-cta:hover,
+.fm-section .fm-cta:active,
+.fm-cta,
+.fm-cta:link,
+.fm-cta:visited,
+.fm-cta:hover,
+.fm-cta:active {
+  color: #0a1628 !important;
+}
+
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
