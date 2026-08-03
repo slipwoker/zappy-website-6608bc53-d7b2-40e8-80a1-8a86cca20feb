@@ -5924,6 +5924,27 @@ html[dir="ltr"] .fm-features .fm-feature-arrow {
 .fm-section .fm-cta:active {
   color: #0A1628 !important;
 }
+
+.fm-section .fm-cta,
+.fm-section .fm-cta:link,
+.fm-section .fm-cta:visited,
+.fm-section .fm-cta:hover,
+.fm-section .fm-cta:active {
+  color: #0A1628 !important;
+}
+
+.fm-section .fm-feature-item span {
+  color: #FFFFFF !important;
+}
+
+.fm-section .fm-features > p span,
+.fm-section .fm-features .fm-feature-arrow {
+  color: #FFFFFF !important;
+}
+
+.fm-section .fm-cta:link {
+  color: #FFFFFF !important;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
