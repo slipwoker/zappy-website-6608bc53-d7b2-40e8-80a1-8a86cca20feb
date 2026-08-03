@@ -5916,6 +5916,14 @@ html[dir="ltr"] .fm-features .fm-feature-arrow {
 }
 
 .fm-features .fm-feature-arrow{display: inline-block;transform: scaleX(-1);}
+
+.fm-section .fm-cta,
+.fm-section .fm-cta:link,
+.fm-section .fm-cta:visited,
+.fm-section .fm-cta:hover,
+.fm-section .fm-cta:active {
+  color: #0A1628 !important;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
