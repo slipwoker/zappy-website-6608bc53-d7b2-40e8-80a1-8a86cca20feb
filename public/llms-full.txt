@@ -61,8 +61,8 @@ Description: גלה כיצד TripleA.I מייעלת תהליכים עסקיים,
 
 
 - שירותים
-- למה אנחנו
-- How It Works
+- מהפכת ה-AIThe AI Advantage
+- פרויקטים נבחריםFeatured Systems
 - תוצאות
 - זיכרון משפחתי
 
@@ -699,8 +699,8 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 
 - שירותים
-- למה אנחנו
-- How It Works
+- מהפכת ה-AIThe AI Advantage
+- פרויקטים נבחריםFeatured Systems
 - תוצאות
 - זיכרון משפחתי
 
@@ -962,8 +962,8 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 
 - שירותים
-- למה אנחנו
-- How It Works
+- מהפכת ה-AIThe AI Advantage
+- פרויקטים נבחריםFeatured Systems
 - תוצאות
 - זיכרון משפחתי
 
@@ -1237,8 +1237,8 @@ Description: תנאי השימוש באתר - הזכויות והחובות של
 
 
 - שירותים
-- למה אנחנו
-- How It Works
+- מהפכת ה-AIThe AI Advantage
+- פרויקטים נבחריםFeatured Systems
 - תוצאות
 - זיכרון משפחתי
 
