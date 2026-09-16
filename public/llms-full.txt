@@ -61,9 +61,10 @@ Description: גלה כיצד TripleA.I מייעלת תהליכים עסקיים,
 
 
 - שירותים
-- מהפכת ה-AIThe AI Advantage
-- פרויקטים נבחריםFeatured Systems
+- למה אנחנו
+- How It Works
 - תוצאות
+- זיכרון משפחתי
 
 
 
@@ -567,8 +568,8 @@ Smart Automation
 
 
 
-קראתי ואני מסכים ל   תנאי השימוש    ול   מדיניות הפרטיות
-I have read and agree to the    Terms of Use    and    Privacy Policy
+קראתי ואני מסכים ל  תנאי השימוש   ול  מדיניות הפרטיות
+I have read and agree to the   Terms of Use   and   Privacy Policy
 
 
 שילחו פרטים לשיחת ייעוץ ראשונית
@@ -698,9 +699,10 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 
 - שירותים
-- מהפכת ה-AIThe AI Advantage
-- פרויקטים נבחריםFeatured Systems
+- למה אנחנו
+- How It Works
 - תוצאות
+- זיכרון משפחתי
 
 
 
@@ -960,9 +962,10 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 
 - שירותים
-- מהפכת ה-AIThe AI Advantage
-- פרויקטים נבחריםFeatured Systems
+- למה אנחנו
+- How It Works
 - תוצאות
+- זיכרון משפחתי
 
 
 
@@ -1234,9 +1237,10 @@ Description: תנאי השימוש באתר - הזכויות והחובות של
 
 
 - שירותים
-- מהפכת ה-AIThe AI Advantage
-- פרויקטים נבחריםFeatured Systems
+- למה אנחנו
+- How It Works
 - תוצאות
+- זיכרון משפחתי
 
 
 
