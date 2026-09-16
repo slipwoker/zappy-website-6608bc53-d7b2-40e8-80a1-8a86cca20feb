@@ -105,11 +105,11 @@ English
 
 TripleA.I
 
-# Your business, running on autopilot, with perfect precision.
+# החופש לצמוח: מערכות AI ואוטומציה מורכבת שעוזרות לנהל את הארגון שלך
 
 
 
-### Eliminate bottlenecks, erase human error, and slash operational costs. Custom AI and smart automation tailored perfectly to your growth.
+### מתכנון ארכיטקטורת אוטומציה מורכבת ועד לפיתוח מהיר של אפליקציות מקצה לקצה – אנחנו בונים את התשתיות שמבטלות עבודה ידנית, מונעות טעויות ומאיצות ביצועים
 
 
 
