@@ -109,7 +109,7 @@ TripleA.I
 
 
 
-### Eliminate bottlenecks, erase human error, and slash operational costs. Custom AI and smart automation tailored perfectly to your growth.
+### From custom automation engine architecture to rapid full-stack app deployment - we build the infrastructure that eliminates manual work, erases errors, and drives execution.
 
 
 
