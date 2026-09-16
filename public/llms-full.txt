@@ -109,7 +109,7 @@ TripleA.I
 
 
 
-### From custom automation engine architecture to rapid full-stack app deployment - we build the infrastructure that eliminates manual work, erases errors, and drives execution
+### מתכנון ארכיטקטורת אוטומציה מורכבת ועד לפיתוח מהיר של אפליקציות מקצה לקצה – אנחנו בונים את התשתיות שמבטלות עבודה ידנית, מונעות טעויות ומאיצות ביצועים
 
 
 
