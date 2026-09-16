@@ -105,16 +105,16 @@ English
 
 TripleA.I
 
-# The Freedom to Grow: High-Impact AI & Automation Systems that Run Your Business.
+# החופש לצמוח: מערכות AI ואוטומציה מורכבת שעוזרות לנהל את הארגון שלך
 
 
 
-### From custom automation engine architecture to rapid full-stack app deployment - we build the infrastructure that eliminates manual work, erases errors, and drives execution.
+### מארכיטקטורת מנועי אוטומציה מותאמים אישית ועד פריסת אפליקציות full-stack מהירה - אנו בונים את התשתית שמבטלת עבודה ידנית, מוחקת שגיאות, ומניעה ביצוע.
 
 
 
-Schedule a Consultation
-Discover How It Works
+קבעו פגישת ייעוץ
+גלו איך זה עובד
 
 
 
@@ -123,7 +123,7 @@ Discover How It Works
 
 95%
 
-Operational Accuracy
+דיוק תפעולי
 
 
 
@@ -131,13 +131,13 @@ Operational Accuracy
 
 30%
 
-Cost Savings
+חיסכון בעלויות
 
 
 
 
 5X
-Execution Speed
+מהירות ביצוע
 
 
 
