@@ -6029,6 +6029,18 @@ html[dir="ltr"] .fm-features .fm-feature-arrow {
 #zappy-section-51 #fm-main-title {
   margin-top: 0 !important;
 }
+
+.index-hero-section .hero-lang-en {
+  display: none !important;
+}
+
+html[dir="ltr"] .index-hero-section .hero-lang-he {
+  display: none !important;
+}
+
+html[dir="ltr"] .index-hero-section .hero-lang-en {
+  display: inline !important;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
