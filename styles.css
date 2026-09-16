@@ -2093,18 +2093,18 @@ html[dir="rtl"] .site-footer .footer-col:nth-child(3) .footer-contact li{flex-di
 
 .footer-contact li > a{flex-direction: row !important;}
 
+/* hero */
 .index-hero-section {
   position: relative;
   width: 100%;
   min-height: 100vh;
-  display: block;
-  align-items: initial;
-  justify-content: initial;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
   overflow: hidden;
   background-color: var(--bg-dark);
   color: var(--text-light);
   padding-bottom: 80px;
-  flex-direction: initial;
 }
 
 /* Background Image */
