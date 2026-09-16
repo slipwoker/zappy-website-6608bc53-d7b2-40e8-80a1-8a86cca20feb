@@ -6041,6 +6041,18 @@ html[dir="ltr"] .index-hero-section .hero-lang-he {
 html[dir="ltr"] .index-hero-section .hero-lang-en {
   display: inline !important;
 }
+
+.index-services-section .hero-lang-en {
+  display: none !important;
+}
+
+html[dir="ltr"] .index-services-section .hero-lang-he {
+  display: none !important;
+}
+
+html[dir="ltr"] .index-services-section .hero-lang-en {
+  display: inline !important;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
