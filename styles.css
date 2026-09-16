@@ -6061,38 +6061,6 @@ html[lang="he"] .index-benefits-section .hero-lang-en {
 html[lang="en"] .index-benefits-section .hero-lang-he {
   display: none !important;
 }
-
-html[lang="he"] #navMenu .nav-lang-en {
-  display: none !important;
-}
-
-html[lang="en"] #navMenu .nav-lang-he {
-  display: none !important;
-}
-
-html[lang="he"] .index-benefits-section .hero-lang-en {
-  display: none !important;
-}
-
-html[lang="en"] .index-benefits-section .hero-lang-he {
-  display: none !important;
-}
-
-html[lang="he"] #hero .hero-lang-en {
-  display: none !important;
-}
-
-html[lang="en"] #hero .hero-lang-he {
-  display: none !important;
-}
-
-html[lang="he"] .index-services-section .hero-lang-en {
-  display: none !important;
-}
-
-html[lang="en"] .index-services-section .hero-lang-he {
-  display: none !important;
-}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
