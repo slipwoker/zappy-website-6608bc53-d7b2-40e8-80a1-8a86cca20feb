@@ -105,11 +105,11 @@ English
 
 TripleA.I
 
-# The Freedom to Grow: High-Impact AI & Automation Systems that Run Your Business.
+# The Freedom to Grow: High-Impact AI & Automation Systems that Run Your Business
 
 
 
-### From custom automation engine architecture to rapid full-stack app deployment - we build the infrastructure that eliminates manual work, erases errors, and drives execution.
+### From custom automation engine architecture to rapid full-stack app deployment — we build the infrastructure that eliminates manual work, erases errors, and drives execution
 
 
 
@@ -594,8 +594,8 @@ Smart Automation
 
 
 
-קראתי ואני מסכים ל  תנאי השימוש   ול  מדיניות הפרטיות
-I have read and agree to the   Terms of Use   and   Privacy Policy
+קראתי ואני מסכים ל   תנאי השימוש    ול   מדיניות הפרטיות
+I have read and agree to the    Terms of Use    and    Privacy Policy
 
 
 שילחו פרטים לשיחת ייעוץ ראשונית
