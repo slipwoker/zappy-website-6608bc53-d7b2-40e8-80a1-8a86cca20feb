@@ -6232,6 +6232,38 @@ html[lang="he"] .index-benefits-section .hero-lang-en {
 html[lang="en"] .index-benefits-section .hero-lang-he {
   display: none !important;
 }
+
+.index-process-section .process-step__subtitle {
+  font-family: 'Rubik', sans-serif;
+  font-size: 0.95rem;
+  font-weight: 600;
+  line-height: 1.4;
+  color: var(--primary);
+  margin: 0 0 12px;
+}
+
+.index-process-section .process-step__description {
+  margin: 0 0 20px;
+}
+
+.index-process-section .process-step__link {
+  display: inline-block;
+  margin-top: auto;
+  padding: 10px 20px;
+  background: var(--primary);
+  color: #FFFFFF !important;
+  border-radius: 6px;
+  font-family: 'Rubik', sans-serif;
+  font-size: 0.9rem;
+  font-weight: 600;
+  text-decoration: none;
+  transition: all 0.25s ease;
+}
+
+.index-process-section .process-step__link:hover {
+  background: #1D4ED8;
+  transform: translateY(-1px);
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
