@@ -283,16 +283,13 @@ pרויקטים נבחרים
 
 
 
-
-
-
-
 ### QuoteDock
 
+#### מערכת חכמה להצעות מחיר
 
-In-depth mapping and analysis of existing organizational workflows, identifying weak points, bottlenecks, and unnecessary manual workload
+מנוע לייצור, תמחור וניהול הצעות מחיר לעסקים - מוחק עבודת ניירת ומאיץ סגירת עסקאות.
 
-
+לצפייה במערכת
 
 
 
@@ -304,16 +301,13 @@ In-depth mapping and analysis of existing organizational workflows, identifying 
 
 
 
+### SportsManager
 
+#### פלטפורמה לניהול קבוצות ספורט
 
+מערכת בזמן אמת לניהול סגלים, לוחות זמנים ותפעול קבוצות באופן אוטומטי וללא הסרבול האדמיניסטרטיבי.
 
-
-### Data flow architecture
-
-
-Detailed planning of personalized automation, and integration of leading platforms such as n8n and Make with precise alignment to your business logic
-
-
+לצפייה במערכת
 
 
 
@@ -325,16 +319,13 @@ Detailed planning of personalized automation, and integration of leading platfor
 
 
 
+### Milgan
 
+#### פלטפורמה אוטומטית לניהול מלגות
 
+מערכת לניהול, סינון ותפעול תוכניות מלגות מקצה לקצה בהיקפים נרחבים.
 
-
-### AI implementation and integration
-
-
-Development, rigorous testing, and seamless deployment of smart automation solutions. We integrate them with your existing systems and provide comprehensive team training
-
-
+לצפייה במערכת
 
 
 
@@ -345,16 +336,13 @@ Development, rigorous testing, and seamless deployment of smart automation solut
 
 
 
+### זיכרון משפחתי
 
+#### מורשת דיגיטלית לשימור והנגשת זיכרונות משפחתיים
 
+מתמונות קיימות והקלטות קוליות, אנחנו בונים סרט משפחתי מרגש שמאפשר לדורות הבאים להכיר את מי שלא הכירו.
 
-
-### Optimization and ROI maximization
-
-
-Continuous performance monitoring, identifying proactive upgrade opportunities, and expanding automations to additional business units to guarantee stable growth and maximum efficiency.
-
-
+לצפייה בסרטון
 
 
 
