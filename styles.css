@@ -6294,9 +6294,9 @@ html[lang="en"] .index-benefits-section .hero-lang-he {
 
 .index-process-section .process-step__card .project-logo {
   height: 90px !important;
-  width: auto !important;
-  max-width: 130px !important;
-  object-fit: contain !important;
+  width: 90px !important;
+  max-width: 90px !important;
+  object-fit: cover !important;
   margin-bottom: 16px !important;
 }
 
@@ -6332,10 +6332,11 @@ html[lang="en"] .index-benefits-section .hero-lang-he {
 }
 
 .index-process-section .process-step__card .project-logo {
-  width: 90px;
+  width: 90px !important;
   height: 90px;
-  object-fit: contain;
+  object-fit: cover !important;
   margin-bottom: 16px;
+  max-width: 90px !important;
 }
 
 .index-process-section .process-step__card .process-step__description {
