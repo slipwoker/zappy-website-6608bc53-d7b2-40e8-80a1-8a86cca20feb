@@ -6398,6 +6398,10 @@ html[lang="en"] .index-benefits-section .hero-lang-he {
   font-weight: 600 !important;
   font-size: 0.9rem !important;
 }
+
+#hero {
+  justify-content: flex-end !important;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
