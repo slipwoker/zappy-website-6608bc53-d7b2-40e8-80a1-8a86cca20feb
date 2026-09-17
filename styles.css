@@ -6414,6 +6414,19 @@ section#hero.index-hero-section {
   z-index: 2 !important;
   pointer-events: none !important;
 }
+
+.index-process-section .process-step__card .process-step__description {
+  margin-bottom: 0;
+}
+
+.index-process-section .process-step__card p:last-child {
+  margin-top: auto;
+  padding-top: 16px;
+}
+
+.index-process-section .process-step__card p.zappy-editable {
+  margin-top: auto;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
