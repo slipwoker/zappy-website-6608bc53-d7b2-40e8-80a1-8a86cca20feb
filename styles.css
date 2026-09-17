@@ -6264,6 +6264,19 @@ html[lang="en"] .index-benefits-section .hero-lang-he {
   background: #1D4ED8;
   transform: translateY(-1px);
 }
+
+.index-process-section .process-step {
+  display: flex;
+  flex-direction: column;
+}
+
+.index-process-section .process-step__card {
+  flex: 1 1 auto;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  min-height: 330px;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
