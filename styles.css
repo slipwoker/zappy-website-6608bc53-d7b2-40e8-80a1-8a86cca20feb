@@ -6260,6 +6260,26 @@ section#hero.index-hero-section {
 .index-process-section .process-step__card p.zappy-editable {
   margin-top: auto;
 }
+
+.index-stats-section__trust-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  text-align: center;
+}
+
+.index-stats-section__trust-item svg {
+  display: block !important;
+  margin: 0 auto;
+  width: 1.6em;
+  height: 1.6em;
+}
+
+.index-stats-section__trust-separator {
+  height: 56px;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
