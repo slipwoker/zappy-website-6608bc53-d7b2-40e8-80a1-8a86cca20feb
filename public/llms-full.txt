@@ -355,31 +355,6 @@ pרויקטים נבחרים
 
 
 
-Manual Operations
-
-- Repetitive, time-consuming tasks handled manually
-- Fragmented tools with zero cross-platform communication
-- High risk of human error and inaccurate data entry
-- Slow turnaround times that delay client response
-- Skyrocketing operational costs that drain your resources
-
-
-
-
-
-Smart Automation
-
-- Continuous, fast, and fully automated workflows
-- A unified system with smart integrations across all tools
-- Perfect accuracy of over 99% with no human errors
-- Instant lead response and routing, 24/7 in real time
-- Up to 30% reduction in ongoing operational expenses and massive time savings
-
-
-
-
-
-
 
 
 
