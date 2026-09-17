@@ -165,7 +165,7 @@ TripleA.I
 
 
 
-### תשתית אוטומציית הליבהCore Automation Infrastructure
+### תשתית אוטומציית הליבה
 
 
 תכנון והטמעה של תהליכי עבודה אוטומטיים מקצה לקצה. אנחנו מחברים בין מערכות הליבה של הארגון שלך, מבטלים עבודה ידנית סיזיפית ומונעים טעויות אנוש יקרות.
@@ -183,7 +183,7 @@ TripleA.I
 
 
 
-### סוכני AI ומערכות חכמותAI Agents & Smart Systems
+### סוכני AI ומערכות חכמות
 
 
 הופכים אוטומציה בסיסית למנוע חכם. אנחנו משלבים סוכני AI עצמאיים ומודלי שפה (LLMs) לתוך זרימת העבודה של הצוות לקבלת החלטות ועיבוד דאטה בזמן אמת.
@@ -206,10 +206,10 @@ TripleA.I
 
 פיתוח מוצרי תוכנה ואפליקציות Full-Stack מותאמות אישית. אנחנו בונים ממשקים מהירים ונקיים שמחוברים ישירות לתשתיות האוטומציה וה-AI.Building custom, full-stack web applications in record time. We engineer clean, high-performing tools integrated directly with your AI & automation architecture.
 
-- פיתוח Full-Stack מהיר של אפליקציות וממשקים מותאמיםRapid full-stack app & dashboard development
-- יישום מתודולוגיות Vibe Coding & Claude CodeLeveraging Vibe Coding & Claude Code workflows
-- חיבור טבעי למנועי האוטומציה ובסיסי הנתונים של הארגוןSeamless integration with automation engines & databases
-- מעבר מרעיון למוצר עובד ב-Production בתוך ימיםFrom concept to production-ready product in days
+- פיתוח Full-Stack מהיר של אפליקציות וממשקים מותאמיםפיתוח מהיר של אפליקציות ודשבורדים full-stack
+- יישום מתודולוגיות Vibe Coding & Claude Codeשימוש בתהליכי Vibe Coding ו-Claude Code
+- חיבור טבעי למנועי האוטומציה ובסיסי הנתונים של הארגוןאינטגרציה חלקה עם מנועי אוטומציה ובסיסי נתונים
+- מעבר מרעיון למוצר עובד ב-Production בתוך ימיםמרעיון למוצר מוכן לייצור תוך ימים
 
 
 
