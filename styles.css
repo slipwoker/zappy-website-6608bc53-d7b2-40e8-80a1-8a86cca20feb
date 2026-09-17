@@ -2176,14 +2176,13 @@ html[dir="rtl"] .footer-contact .contact-text { order: 1 !important; }
 
 html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
 
-/* hero */
 .index-hero-section {
   position: relative;
   width: 100%;
   min-height: 100vh;
   display: flex;
   align-items: center;
-  justify-content: flex-start;
+  justify-content: flex-end;
   overflow: hidden;
   background-color: var(--bg-dark);
   color: var(--text-light);
