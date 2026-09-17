@@ -6406,6 +6406,16 @@ html[lang="en"] .index-benefits-section .hero-lang-he {
 section#hero.index-hero-section {
   justify-content: flex-end !important;
 }
+
+.index-hero-section .city-highway-motif {
+  position: absolute !important;
+  bottom: 0 !important;
+  inset-inline-start: 0 !important;
+  width: 100% !important;
+  height: 60% !important;
+  z-index: 2 !important;
+  pointer-events: none !important;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
