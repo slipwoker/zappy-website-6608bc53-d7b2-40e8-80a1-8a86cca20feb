@@ -263,8 +263,6 @@ Execution Speed
 
 
 
-Our methodology
-
 ## מערכות ואפליקציות בפעולה
 
 
