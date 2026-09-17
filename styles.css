@@ -3756,10 +3756,12 @@ html[dir="rtl"] .site-footer .footer-col:nth-child(3) .footer-contact li{flex-di
 .index-stats-section__trust-item {
   display: flex;
   align-items: center;
-  gap: 8px;
+  gap: 12px;
   font-size: 1rem;
   font-weight: 500;
   color: var(--text-dark);
+  flex-direction: column;
+  text-align: center;
 }
 
 .index-stats-section__trust-icon {
@@ -3769,9 +3771,10 @@ html[dir="rtl"] .site-footer .footer-col:nth-child(3) .footer-contact li{flex-di
 
 .index-stats-section__trust-separator {
   width: 1px;
-  height: 24px;
+  height: 56px;
   background-color: var(--border-light);
   flex-shrink: 0;
+  align-self: center;
 }
 
 .index-stats-section__divider-wrapper {
