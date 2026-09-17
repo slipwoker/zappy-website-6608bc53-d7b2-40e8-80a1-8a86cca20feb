@@ -6350,6 +6350,55 @@ html[lang="en"] .index-benefits-section .hero-lang-he {
   padding-top: 16px;
   margin-bottom: 0;
 }
+
+.index-process-section .process-step {
+  align-items: stretch !important;
+}
+
+.index-process-section .process-step__card {
+  height: 100% !important;
+  min-height: 467px !important;
+}
+
+.index-process-section .project-logo {
+  width: 90px !important;
+  height: 90px !important;
+  object-fit: contain !important;
+  margin-bottom: 16px !important;
+}
+
+.index-process-section .process-step__title {
+  margin: 0 0 8px 0 !important;
+}
+
+.index-process-section .process-step__subtitle {
+  min-height: 42px !important;
+  display: flex !important;
+  align-items: flex-start !important;
+  justify-content: center !important;
+  margin: 0 0 12px 0 !important;
+}
+
+.index-process-section .process-step__description {
+  min-height: 130px !important;
+  margin: 0 0 16px 0 !important;
+}
+
+.index-process-section .process-step__card > p {
+  margin-top: auto !important;
+  margin-bottom: 0 !important;
+}
+
+.index-process-section .process-step__link {
+  display: inline-block !important;
+  background: var(--primary-color, var(--primary, #2563EB)) !important;
+  color: #FFFFFF !important;
+  padding: 10px 20px !important;
+  border-radius: 6px !important;
+  text-decoration: none !important;
+  font-weight: 600 !important;
+  font-size: 0.9rem !important;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
