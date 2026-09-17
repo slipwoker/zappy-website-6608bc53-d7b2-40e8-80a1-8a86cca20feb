@@ -6277,6 +6277,49 @@ html[lang="en"] .index-benefits-section .hero-lang-he {
   height: 100%;
   min-height: 330px;
 }
+
+.index-process-section .process-timeline {
+  align-items: stretch !important;
+}
+
+.index-process-section .process-step {
+  height: 100% !important;
+}
+
+.index-process-section .process-step__card {
+  display: flex !important;
+  flex-direction: column !important;
+  align-items: center !important;
+  justify-content: flex-start !important;
+  text-align: center !important;
+  height: 100% !important;
+}
+
+.index-process-section .process-step__card .project-logo {
+  height: 90px !important;
+  width: auto !important;
+  max-width: 130px !important;
+  object-fit: contain !important;
+  margin-bottom: 16px !important;
+}
+
+.index-process-section .process-step__card .process-step__title,
+.index-process-section .process-step__card .process-step__subtitle {
+  max-width: 100% !important;
+}
+
+.index-process-section .process-step__card .process-step__description {
+  flex: 1 1 auto !important;
+}
+
+.index-process-section .process-step__card p.zappy-editable {
+  flex: 1 1 auto !important;
+}
+
+.index-process-section .process-step__card .process-step__link {
+  margin-top: auto !important;
+  align-self: center !important;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
