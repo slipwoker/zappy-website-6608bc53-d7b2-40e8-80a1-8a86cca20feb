@@ -6185,7 +6185,6 @@ html[dir="rtl"] .fm-features .fm-feature-arrow {
   color: #FFFFFF !important;
 }
 
-
 /* ENSURE: fm-divider-hide-redundant */
 /* The page already has index-stats-section__divider-wrapper as the section
    transition. Hiding the in-section .fm-divider prevents a second thin
@@ -6194,7 +6193,6 @@ html[dir="rtl"] .fm-features .fm-feature-arrow {
 .fm-divider {
   display: none !important;
 }
-
 
 #zappy-section-51 #fm-main-title {
   margin-top: 0 !important;
@@ -6400,11 +6398,11 @@ html[lang="en"] .index-benefits-section .hero-lang-he {
 }
 
 #hero {
-  justify-content: flex-end !important;
+  justify-content: flex-start !important;
 }
 
 section#hero.index-hero-section {
-  justify-content: flex-end !important;
+  justify-content: flex-start !important;
 }
 
 .index-hero-section .city-highway-motif {
