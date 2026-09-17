@@ -265,10 +265,10 @@ Execution Speed
 
 Our methodology
 
-## From initial diagnosis to full automation
+## מערכות ואפליקציות בפעולה
 
 
-We don't believe in generic off-the-shelf solutions. Every project at TripleA.I follows a structured, four-stage process, designed to define, map, optimize and accelerate your business processes using custom AI and advanced automation.
+פתרונות Full-Stack, מנועי AI ומוצרים עובדים שפותחו ונפרסו בקצב שיא.
 
 
 
