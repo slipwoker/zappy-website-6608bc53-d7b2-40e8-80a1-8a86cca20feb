@@ -6402,6 +6402,10 @@ html[lang="en"] .index-benefits-section .hero-lang-he {
 #hero {
   justify-content: flex-end !important;
 }
+
+section#hero.index-hero-section {
+  justify-content: flex-end !important;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
